@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="25" pc="268435458" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="26" pc="268435501" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="27" pc="268435544" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="28" pc="268435587" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="29" pc="268435630" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="30" pc="268435673" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="31" pc="268435716" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="32" pc="268435759" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="37" pc="268435805" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="38" pc="268435841" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="39" pc="268435853" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="41" pc="268435889" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="42" pc="268435943" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="43" pc="268435997" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="44" pc="268436051" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="46" pc="268436105" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="47" pc="268436159" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="48" pc="268436213" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="49" pc="268436267" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Strings/source/Strings.mc" lineNum="58" pc="268436325" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="18" module="true" symbol="Menus"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="11" symbol="greeting"/>
+<entry field="true" id="23" symbol="drink_label"/>
+<entry id="19" module="true" symbol="Layouts"/>
+<entry field="true" id="13" symbol="drink"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="9" object="true" symbol="StringApp"/>
+<entry field="true" id="14" symbol="languageLabel"/>
+<entry field="true" id="10" symbol="language"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="15" symbol="greetingLabel"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8" object="true" symbol="StringView"/>
+<entry field="true" id="12" symbol="food"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="16" symbol="foodLabel"/>
+<entry field="true" id="22" symbol="language_label"/>
+<entry field="true" id="21" symbol="greeting_label"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="17" symbol="drinkLabel"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="24" symbol="food_label"/>
+</symbolTable>
+<localVars/>
+<annotations/>
+<functions>
+<functionEntry name="onLayout" parent="StringView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="StringView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="StringApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

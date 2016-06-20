@@ -1,0 +1,609 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+  Class: Toybox::Lang::Object
+  
+    &mdash; Connect IQ SDK
+  
+</title>
+
+  <link rel="stylesheet" href="../../css/style.css" type="text/css" charset="utf-8" />
+
+  <link rel="stylesheet" href="../../css/common.css" type="text/css" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  hasFrames = window.top.frames.main ? true : false;
+  relpath = '../../';
+  framesUrl = "../../frames.html#!Toybox/Lang/Object.html";
+</script>
+
+
+  <script type="text/javascript" charset="utf-8" src="../../js/jquery.js"></script>
+
+  <script type="text/javascript" charset="utf-8" src="../../js/app.js"></script>
+
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../../_index.html">Index (O)</a> &raquo;
+    <span class='title'><span class='object_link'><a href="../../Toybox.html" title="Toybox (module)">Toybox</a></span></span> &raquo; <span class='title'><span class='object_link'><a href="../Lang.html" title="Toybox::Lang (module)">Lang</a></span></span>
+     &raquo; 
+    <span class="title">Object</span>
+  
+
+  <div class="noframes"><span class="title">(</span><a href="." target="_top">no frames</a><span class="title">)</span></div>
+</div>
+
+      <div id="search">
+  
+    <a class="full_list_link" id="class_list_link"
+        href="../../class_list.html">
+      Class List
+    </a>
+  
+    <a class="full_list_link" id="method_list_link"
+        href="../../method_list.html">
+      Method List
+    </a>
+  
+    <a class="full_list_link" id="file_list_link"
+        href="../../file_list.html">
+      File List
+    </a>
+  
+</div>
+      <div class="clear"></div>
+    </div>
+
+    <iframe id="search_frame"></iframe>
+
+    <div id="content"><h1>Class: Toybox::Lang::Object
+  
+  
+  
+</h1>
+
+<dl class="box">
+  
+    <dt class="r1">Inherits:</dt>
+    <dd class="r1">
+      <span class="inheritName">Object</span>
+      
+        <ul class="fullTree">
+          <li>Object</li>
+          
+            <li class="next">Toybox::Lang::Object</li>
+          
+        </ul>
+        <a href="#" class="inheritanceTree">show all</a>
+      
+      </dd>
+    
+  
+  
+    
+  
+    
+  
+  
+</dl>
+<div class="clear"></div>
+
+<h2>Overview</h2><div class="docstring">
+  <div class="discussion">
+    
+<p>Toybox.Lang.Object is the root object for the Monkey C class hierarchy.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+
+
+
+
+
+
+  
+    <h2>
+      Instance Method Summary
+      <small>(<a href="#" class="summary_toggle">collapse</a>)</small>
+    </h2>
+
+    <ul class="summary">
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#equals-instance_method" title="#equals (instance method)">- (Boolean) <strong>equals</strong>(that) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Test if this instance is equal to another instance of an object by using
+equals().</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#hashCode-instance_method" title="#hashCode (instance method)">- (Number) <strong>hashCode</strong> </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use hashCode() to return a hash code value for the object.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#method-instance_method" title="#method (instance method)">- (Method) <strong>method</strong>(symbol) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>To retrieve the callback to the given method, use method().</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#toString-instance_method" title="#toString (instance method)">- (String) <strong>toString</strong> </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use toString to convert an Object to a String.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#weak-instance_method" title="#weak (instance method)">- (WeakReference) <strong>weak</strong> </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Get a weak reference to the object.</p>
+</div></span>
+  
+</li>
+
+      
+    </ul>
+  
+
+
+
+  <div id="instance_method_details" class="method_details_list">
+    <h2>Instance Method Details</h2>
+
+    
+      <div class="method_details first">
+  <h3 class="signature first" id="equals-instance_method">
+  
+    - (<tt><span class='object_link'><a href="Boolean.html" title="Toybox::Lang::Boolean (class)">Boolean</a></span></tt>) <strong>equals</strong>(that) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Test if this instance is equal to another instance of an object by using
+equals().</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>that</span>
+      
+      
+        <span class='type'></span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>That item to test against</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="Boolean.html" title="Toybox::Lang::Boolean (class)">Boolean</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>true if objects are equal, false otherwise.</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="hashCode-instance_method">
+  
+    - (<tt><span class='object_link'><a href="Number.html" title="Toybox::Lang::Number (class)">Number</a></span></tt>) <strong>hashCode</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use hashCode() to return a hash code value for the object.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="Number.html" title="Toybox::Lang::Number (class)">Number</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Hash code for the object</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="method-instance_method">
+  
+    - (<tt><span class='object_link'><a href="Method.html" title="Toybox::Lang::Method (class)">Method</a></span></tt>) <strong>method</strong>(symbol) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>To retrieve the callback to the given method, use method(). This takes a
+Symbol and returns the associated Method object.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>symbol</span>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="Symbol.html" title="Toybox::Lang::Symbol (class)">Symbol</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Symbol of the method requested</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="Method.html" title="Toybox::Lang::Method (class)">Method</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Method object associated with the given method symbol</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="toString-instance_method">
+  
+    - (<tt><span class='object_link'><a href="String.html" title="Toybox::Lang::String (class)">String</a></span></tt>) <strong>toString</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use toString to convert an Object to a String.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="String.html" title="Toybox::Lang::String (class)">String</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>The String representation of the object</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="weak-instance_method">
+  
+    - (<tt><span class='object_link'><a href="WeakReference.html" title="Toybox::Lang::WeakReference (class)">WeakReference</a></span></tt>) <strong>weak</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Get a weak reference to the object.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="WeakReference.html" title="Toybox::Lang::WeakReference (class)">WeakReference</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Immutable types (Number, Float, Long, Double, Boolean, String) will return
+their values Other object types will return a WeakReference object</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.2.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+  </div>
+
+</div>
+
+    <div id="footer">
+  Generated on Wed Mar  9 15:48:18 2016 by
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool" target="_parent">yard</a>
+  0.8.7.6 (ruby-2.0.0).
+</div>
+
+  </body>
+</html>

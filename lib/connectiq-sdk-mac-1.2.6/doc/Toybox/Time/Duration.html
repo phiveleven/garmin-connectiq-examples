@@ -1,0 +1,1040 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+  Class: Toybox::Time::Duration
+  
+    &mdash; Connect IQ SDK
+  
+</title>
+
+  <link rel="stylesheet" href="../../css/style.css" type="text/css" charset="utf-8" />
+
+  <link rel="stylesheet" href="../../css/common.css" type="text/css" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  hasFrames = window.top.frames.main ? true : false;
+  relpath = '../../';
+  framesUrl = "../../frames.html#!Toybox/Time/Duration.html";
+</script>
+
+
+  <script type="text/javascript" charset="utf-8" src="../../js/jquery.js"></script>
+
+  <script type="text/javascript" charset="utf-8" src="../../js/app.js"></script>
+
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../../_index.html">Index (D)</a> &raquo;
+    <span class='title'><span class='object_link'><a href="../../Toybox.html" title="Toybox (module)">Toybox</a></span></span> &raquo; <span class='title'><span class='object_link'><a href="../Time.html" title="Toybox::Time (module)">Time</a></span></span>
+     &raquo; 
+    <span class="title">Duration</span>
+  
+
+  <div class="noframes"><span class="title">(</span><a href="." target="_top">no frames</a><span class="title">)</span></div>
+</div>
+
+      <div id="search">
+  
+    <a class="full_list_link" id="class_list_link"
+        href="../../class_list.html">
+      Class List
+    </a>
+  
+    <a class="full_list_link" id="method_list_link"
+        href="../../method_list.html">
+      Method List
+    </a>
+  
+    <a class="full_list_link" id="file_list_link"
+        href="../../file_list.html">
+      File List
+    </a>
+  
+</div>
+      <div class="clear"></div>
+    </div>
+
+    <iframe id="search_frame"></iframe>
+
+    <div id="content"><h1>Class: Toybox::Time::Duration
+  
+  
+  
+</h1>
+
+<dl class="box">
+  
+    <dt class="r1">Inherits:</dt>
+    <dd class="r1">
+      <span class="inheritName">Object</span>
+      
+        <ul class="fullTree">
+          <li>Object</li>
+          
+            <li class="next">Toybox::Time::Duration</li>
+          
+        </ul>
+        <a href="#" class="inheritanceTree">show all</a>
+      
+      </dd>
+    
+  
+  
+    
+  
+    
+  
+  
+</dl>
+<div class="clear"></div>
+
+<h2>Overview</h2><div class="docstring">
+  <div class="discussion">
+    
+<p>The Duration object represents an immutable span of time. This is the
+return value when requesting a time result in days or hours.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+
+
+
+
+
+
+  
+    <h2>
+      Instance Method Summary
+      <small>(<a href="#" class="summary_toggle">collapse</a>)</small>
+    </h2>
+
+    <ul class="summary">
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#add-instance_method" title="#add (instance method)">- (Object) <strong>add</strong>(time) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use add() to add a Moment or another Duration to a Duration.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#compare-instance_method" title="#compare (instance method)">- (Number) <strong>compare</strong>(time) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use compare() to determine if a Duration is shorter or longer than another
+Duration.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#divide-instance_method" title="#divide (instance method)">- (Duration) <strong>divide</strong>(value) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use divide() to divide a Duration by a value.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#greaterThan-instance_method" title="#greaterThan (instance method)">- (Boolean) <strong>greaterThan</strong>(time) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use lessThan() to determine if a Duration is longer than another Duration.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#initialize-instance_method" title="#initialize (instance method)">- (Duration) <strong>initialize</strong>(value) </a>
+    
+
+    
+  </span>
+  
+  
+    <span class="note title constructor">constructor</span>
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Creates a Duration object.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#lessThan-instance_method" title="#lessThan (instance method)">- (Boolean) <strong>lessThan</strong>(time) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use lessThan() to determine if a Duration is shorter than another Duration.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#multiply-instance_method" title="#multiply (instance method)">- (Duration) <strong>multiply</strong>(value) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use multiply() to multiply a Duration by a value.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#subtract-instance_method" title="#subtract (instance method)">- (Duration) <strong>subtract</strong>(time) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use subtract() to compute the delta between two Durations.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#value-instance_method" title="#value (instance method)">- (Number) <strong>value</strong> </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Get the Duration value with value().</p>
+</div></span>
+  
+</li>
+
+      
+    </ul>
+  
+
+<div id="constructor_details" class="method_details_list">
+  <h2>Constructor Details</h2>
+  
+    <div class="method_details first">
+  <h3 class="signature first" id="initialize-instance_method">
+  
+    - (<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>) <strong>initialize</strong>(value) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Creates a Duration object.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>value</span>
+      
+      
+        <span class='type'>(<tt>Number</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Number of seconds to initialize the Duration to</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+  
+</div>
+
+
+  <div id="instance_method_details" class="method_details_list">
+    <h2>Instance Method Details</h2>
+
+    
+      <div class="method_details first">
+  <h3 class="signature first" id="add-instance_method">
+  
+    - (<tt>Object</tt>) <strong>add</strong>(time) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use add() to add a Moment or another Duration to a Duration.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>time</span>
+      
+      
+        <span class='type'></span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Duration or Moment to add to Duration</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'></span>
+      
+      
+      
+        
+        <div class='inline'>
+<p>Duration + Moment = Moment, Duration + Duration = Duration</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="compare-instance_method">
+  
+    - (<tt>Number</tt>) <strong>compare</strong>(time) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use compare() to determine if a Duration is shorter or longer than another
+Duration.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>time</span>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Duration to compare to this Duration</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt>Number</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Negative if this &lt; that, positive if this &gt; that, 0 if this == that</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="divide-instance_method">
+  
+    - (<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>) <strong>divide</strong>(value) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use divide() to divide a Duration by a value.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>value</span>
+      
+      
+        <span class='type'></span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Number or Float to divide Duration</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Result object of Duration / value</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="greaterThan-instance_method">
+  
+    - (<tt>Boolean</tt>) <strong>greaterThan</strong>(time) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use lessThan() to determine if a Duration is longer than another Duration.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>time</span>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Duration to compare to this Duration</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt>Boolean</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>true if this is greater than that, false otherwise</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="lessThan-instance_method">
+  
+    - (<tt>Boolean</tt>) <strong>lessThan</strong>(time) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use lessThan() to determine if a Duration is shorter than another Duration.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>time</span>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Duration to compare to this Duration</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt>Boolean</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>true if this is less than that, false otherwise</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="multiply-instance_method">
+  
+    - (<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>) <strong>multiply</strong>(value) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use multiply() to multiply a Duration by a value.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>value</span>
+      
+      
+        <span class='type'></span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Number or Float to multiply with Duration</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Result object of Duration * value</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="subtract-instance_method">
+  
+    - (<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>) <strong>subtract</strong>(time) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use subtract() to compute the delta between two Durations.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>time</span>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Duration object used to find delta</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::Time::Duration (class)">Duration</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Duration object of Duration - time</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="value-instance_method">
+  
+    - (<tt>Number</tt>) <strong>value</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Get the Duration value with value().</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt>Number</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Duration in seconds</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+  </div>
+
+</div>
+
+    <div id="footer">
+  Generated on Wed Mar  9 15:48:19 2016 by
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool" target="_parent">yard</a>
+  0.8.7.6 (ruby-2.0.0).
+</div>
+
+  </body>
+</html>

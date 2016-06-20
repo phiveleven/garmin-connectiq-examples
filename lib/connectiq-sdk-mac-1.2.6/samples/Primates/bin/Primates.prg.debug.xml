@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="19" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="24" pc="268435481" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="25" pc="268435517" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="27" pc="268435529" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="28" pc="268435565" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="30" pc="268435609" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="31" pc="268435641" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="33" pc="268435692" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="34" pc="268435743" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="35" pc="268435794" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ApesView.mc" lineNum="36" pc="268435845" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/DetailsDelegate.mc" lineNum="15" pc="268435899" symbol="onBack"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/DetailsDelegate.mc" lineNum="16" pc="268435927" symbol="onBack"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="19" pc="268435934" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="24" pc="268435957" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="25" pc="268435993" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="27" pc="268436005" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="28" pc="268436041" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="30" pc="268436085" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="31" pc="268436117" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="33" pc="268436168" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="34" pc="268436219" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/MonkeysView.mc" lineNum="35" pc="268436270" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="19" pc="268436324" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="20" pc="268436334" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="21" pc="268436344" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="22" pc="268436354" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="23" pc="268436364" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="27" pc="268436377" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="28" pc="268436384" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="29" pc="268436397" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="30" pc="268436404" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="32" pc="268436411" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="33" pc="268436431" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="34" pc="268436456" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="37" pc="268436504" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="38" pc="268436520" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="41" pc="268436568" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="42" pc="268436593" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="45" pc="268436632" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="46" pc="268436648" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="48" pc="268436667" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="49" pc="268436674" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="52" pc="268436681" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="53" pc="268436702" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="54" pc="268436710" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="56" pc="268436745" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="59" pc="268436777" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PageIndicator.mc" lineNum="60" pc="268436796" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/Primates.mc" lineNum="21" pc="268436843" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="17" pc="268436914" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="18" pc="268436942" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="19" pc="268436966" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="20" pc="268436986" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="21" pc="268437010" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="22" pc="268437030" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="24" pc="268437062" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="28" pc="268437068" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="29" pc="268437090" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="30" pc="268437107" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="32" pc="268437123" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="33" pc="268437145" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="34" pc="268437169" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="35" pc="268437189" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="36" pc="268437213" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="37" pc="268437233" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="39" pc="268437265" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="43" pc="268437271" symbol="setIndex"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="47" pc="268437284" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="48" pc="268437301" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="49" pc="268437373" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="51" pc="268437396" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="52" pc="268437468" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="54" pc="268437491" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="55" pc="268437563" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesDelegate.mc" lineNum="58" pc="268437569" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="25" pc="268437576" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="26" pc="268437589" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="27" pc="268437609" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="31" pc="268437707" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="33" pc="268437747" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="34" pc="268437777" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="35" pc="268437784" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="36" pc="268437798" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="37" pc="268437812" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="38" pc="268437828" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="42" pc="268437862" symbol="setIndex"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="43" pc="268437872" symbol="setIndex"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="44" pc="268437881" symbol="setIndex"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="49" pc="268437924" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="50" pc="268437960" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="52" pc="268437972" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="53" pc="268438008" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="55" pc="268438052" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="56" pc="268438084" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="58" pc="268438147" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/PrimatesView.mc" lineNum="60" pc="268438177" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="19" pc="268438208" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="24" pc="268438231" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="25" pc="268438267" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="27" pc="268438279" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="28" pc="268438315" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="30" pc="268438359" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="31" pc="268438391" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="33" pc="268438442" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="34" pc="268438493" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="35" pc="268438544" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Primates/source/ProsimiansView.mc" lineNum="36" pc="268438595" symbol="onUpdate"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="26" symbol="indicator"/>
+<entry field="true" id="32" symbol="ALIGN_TOP_LEFT"/>
+<entry id="12" object="true" symbol="MyApp"/>
+<entry id="13" object="true" symbol="PrimatesDelegate"/>
+<entry field="true" id="20" symbol="id_apes"/>
+<entry field="true" id="29" symbol="ALIGN_BOTTOM_RIGHT"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8" object="true" symbol="ApesView"/>
+<entry id="14" object="true" symbol="PrimatesView"/>
+<entry id="25" symbol="images"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="28" symbol="primates"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="10" object="true" symbol="MonkeysView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="17" method="true" symbol="setIndex"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry field="true" id="34" symbol="mNotSelectedColor"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry field="true" id="30" symbol="ALIGN_BOTTOM_LEFT"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
+<entry id="15" object="true" symbol="ProsimiansView"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="11" object="true" symbol="PageIndicator"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="37" method="true" symbol="setup"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="16" symbol="index"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="36" symbol="mMargin"/>
+<entry field="true" id="35" symbol="mAlignment"/>
+<entry id="9" object="true" symbol="DetailsDelegate"/>
+<entry id="19" module="true" symbol="Layouts"/>
+<entry field="true" id="31" symbol="ALIGN_TOP_RIGHT"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry field="true" id="22" symbol="id_prosimians"/>
+<entry id="27" symbol="bitmap"/>
+<entry field="true" id="8389092" symbol="mSize"/>
+<entry field="true" id="33" symbol="mSelectedColor"/>
+<entry id="18" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="21" symbol="id_monkeys"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436820" name="tempX" stackId="8" startPc="268436702"/>
+<entry endPc="268436833" name="i" stackId="7" startPc="268436702"/>
+<entry endPc="268436833" name="x" stackId="5" startPc="268436377"/>
+<entry endPc="268436833" name="height" stackId="3" startPc="268436377"/>
+<entry endPc="268436833" name="width" stackId="4" startPc="268436377"/>
+<entry endPc="268436833" name="y" stackId="6" startPc="268436377"/>
+<entry endPc="268437065" name="view" stackId="1" startPc="268436914"/>
+<entry endPc="268437065" name="delegate" stackId="2" startPc="268436914"/>
+<entry endPc="268437268" name="view" stackId="1" startPc="268437068"/>
+<entry endPc="268437268" name="delegate" stackId="2" startPc="268437068"/>
+<entry endPc="268437859" name="size" stackId="1" startPc="268437576"/>
+<entry endPc="268437859" name="selected" stackId="2" startPc="268437576"/>
+<entry endPc="268437859" name="notSelected" stackId="3" startPc="268437576"/>
+<entry endPc="268437859" name="alignment" stackId="4" startPc="268437576"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="ApesView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ApesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="DetailsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MonkeysView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="MonkeysView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setup" parent="PageIndicator">
+<param id="size"/>
+<param id="selectedColor"/>
+<param id="notSelectedColor"/>
+<param id="alignment"/>
+<param id="margin"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="PageIndicator">
+<param id="dc"/>
+<param id="selectedIndex"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="PrimatesDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="PrimatesDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="setIndex" parent="PrimatesDelegate">
+<param id="newIndex"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="PrimatesDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="PrimatesView">
+<documentation/>
+</functionEntry>
+<functionEntry name="setIndex" parent="PrimatesView">
+<param id="newIndex"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="PrimatesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ProsimiansView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ProsimiansView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

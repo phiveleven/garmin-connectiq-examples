@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTracker.mc" lineNum="14" pc="268435458" symbol="onStart"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTracker.mc" lineNum="19" pc="268435464" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTracker.mc" lineNum="24" pc="268435504" symbol="onStop"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="25" pc="268435511" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="26" pc="268435545" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="32" pc="268435589" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="33" pc="268435589" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="34" pc="268435606" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="35" pc="268435646" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="36" pc="268435646" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="37" pc="268435646" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="38" pc="268435646" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="39" pc="268435646" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="40" pc="268435646" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="43" pc="268435646" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="44" pc="268435668" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="46" pc="268435675" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="47" pc="268435711" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="49" pc="268435723" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="51" pc="268435740" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="53" pc="268435757" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="57" pc="268435773" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="58" pc="268435809" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="59" pc="268435841" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="60" pc="268435873" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="63" pc="268435905" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="65" pc="268435913" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="66" pc="268435929" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="70" pc="268435951" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="71" pc="268435961" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="73" pc="268435968" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="74" pc="268435981" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="76" pc="268435992" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="80" pc="268436002" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="82" pc="268436022" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="86" pc="268436050" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="90" pc="268436057" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="92" pc="268436068" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="96" pc="268436107" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="99" pc="268436143" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="100" pc="268436178" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="103" pc="268436207" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="106" pc="268436243" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="107" pc="268436286" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="110" pc="268436346" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="111" pc="268436356" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="114" pc="268436461" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="115" pc="268436486" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="116" pc="268436504" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="117" pc="268436514" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="120" pc="268436574" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="121" pc="268436599" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="124" pc="268436671" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="126" pc="268436695" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="127" pc="268436695" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="128" pc="268436702" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="130" pc="268436723" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="133" pc="268436746" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ActivityTracking/source/ActivityTrackerView.mc" lineNum="140" pc="268436824" symbol="onTimer"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="13" symbol="AppName"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="14" symbol="timer"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="9" object="true" symbol="ActivityWidget"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="15" method="true" symbol="onTimer"/>
+<entry id="8388646" symbol="Timer"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8" object="true" symbol="ActivityTracker"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8388640" symbol="Lang"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436818" name="i" stackId="12" startPc="268436695"/>
+<entry endPc="268436821" name="progress" stackId="8" startPc="268435589"/>
+<entry endPc="268436821" name="stepsFromGoal" stackId="6" startPc="268435589"/>
+<entry endPc="268436821" name="clockTime" stackId="3" startPc="268435589"/>
+<entry endPc="268436821" name="goalPace" stackId="7" startPc="268435589"/>
+<entry endPc="268436821" name="activityInfo" stackId="2" startPc="268435589"/>
+<entry endPc="268436821" name="string" stackId="10" startPc="268435589"/>
+<entry endPc="268436821" name="goalProgress" stackId="9" startPc="268435589"/>
+<entry endPc="268436821" name="ToD" stackId="4" startPc="268435589"/>
+<entry endPc="268436821" name="distMiles" stackId="11" startPc="268435589"/>
+<entry endPc="268436821" name="daySeconds" stackId="5" startPc="268435589"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onStart" parent="ActivityTracker">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="ActivityTracker">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="ActivityTracker">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ActivityWidget">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ActivityWidget">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onTimer" parent="ActivityWidget">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

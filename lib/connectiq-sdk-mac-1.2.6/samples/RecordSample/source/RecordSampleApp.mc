@@ -1,0 +1,36 @@
+//!
+//! Copyright 2015 by Garmin Ltd. or its subsidiaries.
+//! Subject to Garmin SDK License Agreement and Wearables
+//! Application Developer Agreement.
+//!
+
+using Toybox.Application as App;
+using Toybox.Position as Position;
+
+class RecordSampleApp extends App.AppBase {
+
+    var recordSampleView;
+
+    //! onStart() is called on application start up
+    //! We need to enable the location events for now so that we make sure GPS
+    //! is on.
+    function onStart() {
+        Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, method(:onPosition));
+    }
+
+    //! onStop() is called when your application is exiting
+    function onStop() {
+        recordSampleView.stopRecording();
+        Position.enableLocationEvents(Position.LOCATION_DISABLE, method(:onPosition));
+    }
+
+    function onPosition(info) {
+    }
+
+    //! Return the initial view of your application here
+    function getInitialView() {
+        recordSampleView = new RecordSampleView();
+        return [ recordSampleView, new BaseInputDelegate() ];
+    }
+
+}

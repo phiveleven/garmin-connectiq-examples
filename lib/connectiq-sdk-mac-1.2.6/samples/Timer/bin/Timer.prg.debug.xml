@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/Timer.mc" lineNum="21" pc="268435464" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="22" pc="268435535" symbol="callback1"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="23" pc="268435554" symbol="callback1"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="28" pc="268435573" symbol="callback2"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="29" pc="268435592" symbol="callback2"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="34" pc="268435611" symbol="callback3"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="35" pc="268435630" symbol="callback3"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="40" pc="268435649" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="41" pc="268435683" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="42" pc="268435717" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="44" pc="268435751" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="45" pc="268435792" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="46" pc="268435833" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="51" pc="268435877" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="53" pc="268435877" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="54" pc="268435913" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="55" pc="268435925" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="56" pc="268435961" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="57" pc="268435977" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="58" pc="268436043" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="59" pc="268436059" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="60" pc="268436119" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="61" pc="268436135" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="70" pc="268436205" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Timer/source/TimerView.mc" lineNum="71" pc="268436223" symbol="onMenu"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="13" module="true" symbol="Menus"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="12" method="true" symbol="callback3"/>
+<entry id="8388701" method="true" symbol="callback2"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388700" method="true" symbol="callback1"/>
+<entry id="8" object="true" symbol="MyApp"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="10" symbol="count3"/>
+<entry field="true" id="8388695" symbol="count2"/>
+<entry field="true" id="8388694" symbol="count1"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388656" object="true" symbol="InputDelegate"/>
+<entry id="11" object="true" symbol="MyWatchView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="9" symbol="timer3"/>
+<entry field="true" id="8388697" symbol="timer2"/>
+<entry field="true" id="8388696" symbol="timer1"/>
+<entry id="8388646" symbol="Timer"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436201" name="string" stackId="2" startPc="268435877"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onStart" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="callback1" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="callback2" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="callback3" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="MyWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="MyWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

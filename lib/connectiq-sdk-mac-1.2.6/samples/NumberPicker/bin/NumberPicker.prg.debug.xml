@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerApp.mc" lineNum="21" pc="268435464" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="20" pc="268435535" symbol="onNumberPicked"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="26" pc="268435549" symbol="onNumberPicked"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="32" pc="268435563" symbol="onNumberPicked"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="42" pc="268435577" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="43" pc="268435577" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="44" pc="268435594" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="45" pc="268435648" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="46" pc="268435706" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="50" pc="268435748" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="51" pc="268435810" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="52" pc="268435858" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="53" pc="268435916" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="56" pc="268435958" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="57" pc="268436020" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="58" pc="268436068" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="59" pc="268436126" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="62" pc="268436168" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="63" pc="268436230" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="64" pc="268436278" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="65" pc="268436336" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="68" pc="268436378" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="69" pc="268436385" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="70" pc="268436433" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="71" pc="268436491" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="74" pc="268436533" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="75" pc="268436540" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="76" pc="268436588" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="77" pc="268436646" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="80" pc="268436688" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="81" pc="268436695" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="82" pc="268436743" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="83" pc="268436801" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="86" pc="268436843" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="87" pc="268436850" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="88" pc="268436898" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="89" pc="268436956" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="91" pc="268436972" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="101" pc="268436982" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="109" pc="268437002" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="110" pc="268437038" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="111" pc="268437050" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="113" pc="268437086" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="114" pc="268437167" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="115" pc="268437260" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="116" pc="268437353" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/NumberPicker/source/NumberPickerView.mc" lineNum="118" pc="268437366" symbol="onUpdate"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="18" module="true" symbol="Menus"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="17" object="true" symbol="NumberPickerView"/>
+<entry id="19" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389342" symbol="hours"/>
+<entry id="8389344" symbol="seconds"/>
+<entry field="true" id="10" symbol="testVali"/>
+<entry field="true" id="9" symbol="testValf"/>
+<entry id="8" object="true" symbol="NumberPickerApp"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="16" object="true" symbol="BaseInputDelegate"/>
+<entry field="true" id="11" symbol="count"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="14" object="true" symbol="NPDi"/>
+<entry id="13" object="true" symbol="NPDf"/>
+<entry id="15" object="true" symbol="NPDd"/>
+<entry field="true" id="22" symbol="np"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="23" symbol="npi"/>
+<entry id="8389343" symbol="minutes"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389102" method="true" symbol="onNumberPicked"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="12" symbol="dur"/>
+<entry id="8388640" symbol="Lang"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436975" name="value" stackId="1" startPc="268435577"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onStart" parent="NumberPickerApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="NumberPickerApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="NumberPickerApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onNumberPicked" parent="NPDf">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onNumberPicked" parent="NPDi">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onNumberPicked" parent="NPDd">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="BaseInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="BaseInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="NumberPickerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="NumberPickerView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="NumberPickerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

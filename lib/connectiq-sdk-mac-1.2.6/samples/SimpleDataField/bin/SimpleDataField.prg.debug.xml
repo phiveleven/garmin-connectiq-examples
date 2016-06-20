@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="19" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="20" pc="268435471" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="26" pc="268435487" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="29" pc="268435490" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="31" pc="268435507" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="33" pc="268435520" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="36" pc="268435536" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="38" pc="268435553" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="40" pc="268435566" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="43" pc="268435588" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="45" pc="268435605" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="48" pc="268435618" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="49" pc="268435648" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="53" pc="268435679" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="54" pc="268435698" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="56" pc="268435715" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="59" pc="268435731" symbol="compute"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="69" pc="268435737" symbol="onStart"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="74" pc="268435743" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/SimpleDataField/source/SimpleDataField.mc" lineNum="79" pc="268435783" symbol="onStop"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8" module="true" symbol="Menus"/>
+<entry field="true" id="13" symbol="counter"/>
+<entry field="true" id="12" symbol="AppName"/>
+<entry field="true" id="11" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="9" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389344" symbol="seconds"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389024" object="true" symbol="DataField"/>
+<entry field="true" id="10" symbol="id_monkey"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389025" object="true" symbol="SimpleDataField"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435673" name="options" stackId="3" startPc="268435618"/>
+<entry endPc="268435734" name="value_picked" stackId="2" startPc="268435487"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="DataField">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="compute" parent="DataField">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStart" parent="SimpleDataField">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="SimpleDataField">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="SimpleDataField">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

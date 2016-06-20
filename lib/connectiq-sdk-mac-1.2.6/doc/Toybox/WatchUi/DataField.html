@@ -1,0 +1,647 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+  Class: Toybox::WatchUi::DataField
+  
+    &mdash; Connect IQ SDK
+  
+</title>
+
+  <link rel="stylesheet" href="../../css/style.css" type="text/css" charset="utf-8" />
+
+  <link rel="stylesheet" href="../../css/common.css" type="text/css" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  hasFrames = window.top.frames.main ? true : false;
+  relpath = '../../';
+  framesUrl = "../../frames.html#!Toybox/WatchUi/DataField.html";
+</script>
+
+
+  <script type="text/javascript" charset="utf-8" src="../../js/jquery.js"></script>
+
+  <script type="text/javascript" charset="utf-8" src="../../js/app.js"></script>
+
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../../_index.html">Index (D)</a> &raquo;
+    <span class='title'><span class='object_link'><a href="../../Toybox.html" title="Toybox (module)">Toybox</a></span></span> &raquo; <span class='title'><span class='object_link'><a href="../WatchUi.html" title="Toybox::WatchUi (module)">WatchUi</a></span></span>
+     &raquo; 
+    <span class="title">DataField</span>
+  
+
+  <div class="noframes"><span class="title">(</span><a href="." target="_top">no frames</a><span class="title">)</span></div>
+</div>
+
+      <div id="search">
+  
+    <a class="full_list_link" id="class_list_link"
+        href="../../class_list.html">
+      Class List
+    </a>
+  
+    <a class="full_list_link" id="method_list_link"
+        href="../../method_list.html">
+      Method List
+    </a>
+  
+    <a class="full_list_link" id="file_list_link"
+        href="../../file_list.html">
+      File List
+    </a>
+  
+</div>
+      <div class="clear"></div>
+    </div>
+
+    <iframe id="search_frame"></iframe>
+
+    <div id="content"><h1>Class: Toybox::WatchUi::DataField
+  
+  
+  
+</h1>
+
+<dl class="box">
+  
+    <dt class="r1">Inherits:</dt>
+    <dd class="r1">
+      <span class="inheritName"><span class='object_link'><a href="View.html" title="Toybox::WatchUi::View (class)">View</a></span></span>
+      
+        <ul class="fullTree">
+          <li>Object</li>
+          
+            <li class="next"><span class='object_link'><a href="View.html" title="Toybox::WatchUi::View (class)">View</a></span></li>
+          
+            <li class="next">Toybox::WatchUi::DataField</li>
+          
+        </ul>
+        <a href="#" class="inheritanceTree">show all</a>
+      
+      </dd>
+    
+  
+  
+    
+  
+    
+  
+  
+</dl>
+<div class="clear"></div>
+
+<h2>Overview</h2><div class="docstring">
+  <div class="discussion">
+    
+<p>The DataField class is used for creating data fields. In a DataField, the
+developer will implement a compute method, which is called by the system
+once per second, with an Activity.Info object. The system will call the
+onUpdate() method inherited from View when the field is displayed by the
+system.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Supported Devices:</p>
+<ul class="supported">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>All devices</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div><div id="subclasses">
+  <h2>Direct Known Subclasses</h2>
+  <p class="children"><span class='object_link'><a href="SimpleDataField.html" title="Toybox::WatchUi::SimpleDataField (class)">SimpleDataField</a></span></p>
+</div>
+
+  <h2>Constant Summary</h2>
+  
+    <dl class="constants">
+      
+        <dt id="OBSCURE_LEFT-constant" class="">OBSCURE_LEFT = 1  <div class="docstring">
+  <div class="discussion">
+    
+<p>Some of the left edge of the device context is obscured</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+        <dt id="OBSCURE_TOP-constant" class="">OBSCURE_TOP = 2  <div class="docstring">
+  <div class="discussion">
+    
+<p>Some of the top edge of the device context is obscured</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+        <dt id="OBSCURE_RIGHT-constant" class="">OBSCURE_RIGHT = 4  <div class="docstring">
+  <div class="discussion">
+    
+<p>Some of the right edge of the device context is obscured</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+        <dt id="OBSCURE_BOTTOM-constant" class="">OBSCURE_BOTTOM = 8  <div class="docstring">
+  <div class="discussion">
+    
+<p>Some of the bottom edge of the device context is obscured</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+    </dl>
+  
+
+
+
+
+
+
+
+  
+    <h2>
+      Instance Method Summary
+      <small>(<a href="#" class="summary_toggle">collapse</a>)</small>
+    </h2>
+
+    <ul class="summary">
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#compute-instance_method" title="#compute (instance method)">- (Object) <strong>compute</strong>(info) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>To retrieve Activity.Info data for DataFields, it is necessary to override
+compute().</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#getBackgroundColor-instance_method" title="#getBackgroundColor (instance method)">- (Number) <strong>getBackgroundColor</strong> </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>The current background color for data fields, which is either
+Graphics.COLOR_WHITE or Graphics.COLOR_BLACK.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#getObscurityFlags-instance_method" title="#getObscurityFlags (instance method)">- (Number) <strong>getObscurityFlags</strong> </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Mask of OBSCURE_X values giving the sides of the display that that are
+obscured by a round screen.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#initialize-instance_method" title="#initialize (instance method)">- (DataField) <strong>initialize</strong> </a>
+    
+
+    
+  </span>
+  
+  
+    <span class="note title constructor">constructor</span>
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Constructor.</p>
+</div></span>
+  
+</li>
+
+      
+    </ul>
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <h3 class="inherited">Methods inherited from <span class='object_link'><a href="View.html" title="Toybox::WatchUi::View (class)">View</a></span></h3>
+  <p class="inherited"><span class='object_link'><a href="View.html#findDrawableById-instance_method" title="Toybox::WatchUi::View#findDrawableById (method)">#findDrawableById</a></span>, <span class='object_link'><a href="View.html#onHide-instance_method" title="Toybox::WatchUi::View#onHide (method)">#onHide</a></span>, <span class='object_link'><a href="View.html#onLayout-instance_method" title="Toybox::WatchUi::View#onLayout (method)">#onLayout</a></span>, <span class='object_link'><a href="View.html#onShow-instance_method" title="Toybox::WatchUi::View#onShow (method)">#onShow</a></span>, <span class='object_link'><a href="View.html#onUpdate-instance_method" title="Toybox::WatchUi::View#onUpdate (method)">#onUpdate</a></span>, <span class='object_link'><a href="View.html#setLayout-instance_method" title="Toybox::WatchUi::View#setLayout (method)">#setLayout</a></span></p>
+<div id="constructor_details" class="method_details_list">
+  <h2>Constructor Details</h2>
+  
+    <div class="method_details first">
+  <h3 class="signature first" id="initialize-instance_method">
+  
+    - (<tt><span class='object_link'><a href="" title="Toybox::WatchUi::DataField (class)">DataField</a></span></tt>) <strong>initialize</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Constructor</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+  
+</div>
+
+
+  <div id="instance_method_details" class="method_details_list">
+    <h2>Instance Method Details</h2>
+
+    
+      <div class="method_details first">
+  <h3 class="signature first" id="compute-instance_method">
+  
+    - (<tt>Object</tt>) <strong>compute</strong>(info) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>To retrieve Activity.Info data for DataFields, it is necessary to override
+compute(). This is the method that is called to update the field
+information.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>info</span>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="../Activity.html" title="Toybox::Activity (module)">Activity</a></span>.Info</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>The updated Activity.Info object</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="getBackgroundColor-instance_method">
+  
+    - (<tt>Number</tt>) <strong>getBackgroundColor</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Returns the current background color for data fields, which is either
+Graphics.COLOR_WHITE or Graphics.COLOR_BLACK</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt>Number</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>the current background color for data fields, which is either
+Graphics.COLOR_WHITE or Graphics.COLOR_BLACK</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.2.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="getObscurityFlags-instance_method">
+  
+    - (<tt>Number</tt>) <strong>getObscurityFlags</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Returns mask of OBSCURE_X values giving the sides of the display that that
+are obscured by a round screen.  Valid during onUpdate.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt>Number</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>mask of OBSCURE_X values giving the sides of the display that that are
+obscured by a round screen.  Valid during onUpdate.</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+  </div>
+
+</div>
+
+    <div id="footer">
+  Generated on Wed Mar  9 15:48:20 2016 by
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool" target="_parent">yard</a>
+  0.8.7.6 (ruby-2.0.0).
+</div>
+
+  </body>
+</html>

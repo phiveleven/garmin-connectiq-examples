@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Drawable/source/DrawableApp.mc" lineNum="21" pc="268435464" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Drawable/source/DrawableView.mc" lineNum="19" pc="268435505" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Drawable/source/DrawableView.mc" lineNum="31" pc="268435556" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Drawable/source/DrawableView.mc" lineNum="32" pc="268435592" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Drawable/source/DrawableView.mc" lineNum="33" pc="268435636" symbol="onUpdate"/>
+<entry filename="Rez" lineNum="20" pc="268435659" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268435683" symbol="initialize"/>
+<entry filename="Rez" lineNum="25" pc="268435729" symbol="draw"/>
+<entry filename="Rez" lineNum="26" pc="268435736" symbol="draw"/>
+<entry filename="Rez" lineNum="27" pc="268435743" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268435756" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268435769" symbol="draw"/>
+<entry filename="Rez" lineNum="33" pc="268435794" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="34" pc="268435830" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="35" pc="268435874" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="37" pc="268435910" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="38" pc="268435946" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="40" pc="268436029" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="41" pc="268436065" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="43" pc="268436131" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="44" pc="268436167" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="46" pc="268436218" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="47" pc="268436254" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="49" pc="268436340" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="50" pc="268436376" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="52" pc="268436467" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="53" pc="268436503" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="54" pc="268436548" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="55" pc="268436584" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="57" pc="268436635" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="58" pc="268436671" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="60" pc="268436762" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="61" pc="268436798" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="63" pc="268436990" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="64" pc="268437026" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="65" pc="268437076" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="66" pc="268437112" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="68" pc="268437198" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="69" pc="268437234" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="71" pc="268437320" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="72" pc="268437356" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="74" pc="268437442" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="75" pc="268437478" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="77" pc="268437728" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="78" pc="268437764" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="80" pc="268437821" symbol="drawComplex"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="13" symbol="id_cloud"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="10" object="true" symbol="train"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8" object="true" symbol="MyApp"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="15" symbol="image_id_cloud"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="9" object="true" symbol="MyWatchView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="16" method="true" symbol="drawComplex"/>
+<entry id="8388640" symbol="Lang"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435791" name="pWidth" stackId="4" startPc="268435729"/>
+<entry endPc="268435791" name="pY" stackId="3" startPc="268435729"/>
+<entry endPc="268435791" name="pX" stackId="2" startPc="268435729"/>
+<entry endPc="268435791" name="pHeight" stackId="5" startPc="268435729"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onStart" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MyWatchView">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="MyWatchView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="MyWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="MyWatchView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="train">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="train">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="train">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

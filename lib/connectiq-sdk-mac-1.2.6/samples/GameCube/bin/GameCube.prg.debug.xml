@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="22" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="33" pc="268435507" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="34" pc="268435507" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="35" pc="268435520" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="36" pc="268435537" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="37" pc="268435537" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="40" pc="268435537" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="41" pc="268435573" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="44" pc="268435617" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="45" pc="268435633" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="46" pc="268435656" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="47" pc="268435669" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="48" pc="268435705" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="51" pc="268435752" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="52" pc="268435776" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="53" pc="268435812" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/GameCube/source/GameCube.mc" lineNum="77" pc="268435874" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="9" object="true" symbol="GameCube"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry field="true" id="13" symbol="id_gamecube_120"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8" object="true" symbol="GameCubeView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435859" name="hour" stackId="5" startPc="268435507"/>
+<entry endPc="268435859" name="min" stackId="6" startPc="268435507"/>
+<entry endPc="268435859" name="width" stackId="2" startPc="268435507"/>
+<entry endPc="268435859" name="clockTime" stackId="4" startPc="268435507"/>
+<entry endPc="268435859" name="screenWidth" stackId="3" startPc="268435507"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="GameCubeView">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="GameCubeView">
+<documentation><![CDATA[<div class="description"> Prepare the layout<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="GameCubeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="GameCubeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="GameCubeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="GameCube">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="GameCube">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="GameCube">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

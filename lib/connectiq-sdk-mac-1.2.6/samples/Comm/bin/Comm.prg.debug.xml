@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="21" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="26" pc="268435493" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="27" pc="268435529" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="28" pc="268435541" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="30" pc="268435577" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="32" pc="268435594" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="33" pc="268435645" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="34" pc="268435696" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="35" pc="268435747" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="40" pc="268435801" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="41" pc="268435801" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="43" pc="268435808" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="44" pc="268435859" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="46" pc="268435880" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="47" pc="268435934" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="54" pc="268435960" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="56" pc="268435960" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="58" pc="268435973" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="60" pc="268435980" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="61" pc="268435980" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="63" pc="268436007" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="65" pc="268436048" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="66" pc="268436064" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="67" pc="268436077" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="70" pc="268436093" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="71" pc="268436109" symbol="onMail"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="81" pc="268436128" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="82" pc="268436156" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="83" pc="268436178" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="84" pc="268436200" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="85" pc="268436222" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="86" pc="268436270" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="91" pc="268436276" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="93" pc="268436293" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="97" pc="268436309" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="99" pc="268436322" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="108" pc="268436342" symbol="onMenuItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="110" pc="268436366" symbol="onMenuItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="111" pc="268436377" symbol="onMenuItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="114" pc="268436415" symbol="onMenuItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="117" pc="268436453" symbol="onMenuItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="126" pc="268436484" symbol="onComplete"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="131" pc="268436508" symbol="onError"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Comm/source/Comm.mc" lineNum="152" pc="268436542" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="13" object="true" symbol="MenuInput"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry field="true" id="20" symbol="AppName"/>
+<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry id="23" symbol="hello"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388829" method="true" symbol="onComplete"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="15" object="true" symbol="CommExample"/>
+<entry id="8388716" symbol="trap"/>
+<entry id="14" object="true" symbol="CommListener"/>
+<entry id="11" object="true" symbol="BaseView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="10" symbol="stringsSize"/>
+<entry field="true" id="8" symbol="page"/>
+<entry id="8388828" method="true" symbol="onError"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="9" symbol="strings"/>
+<entry id="12" object="true" symbol="BaseInputDelegate"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="21" symbol="cnt"/>
+<entry id="22" method="true" symbol="onMail"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="18" symbol="id_monkey"/>
+<entry id="24" symbol="garmin"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435957" name="i" stackId="2" startPc="268435801"/>
+<entry endPc="268435957" name="y" stackId="3" startPc="268435801"/>
+<entry endPc="268436090" name="i" stackId="3" startPc="268435980"/>
+<entry endPc="268436125" name="mail" stackId="2" startPc="268435960"/>
+<entry endPc="268436273" name="menu" stackId="1" startPc="268436128"/>
+<entry endPc="268436480" name="listener" stackId="2" startPc="268436342"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="BaseView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="BaseView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMail" parent="BaseView">
+<param id="mailIter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="BaseInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="BaseInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="MenuInput">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onComplete" parent="CommListener">
+<documentation/>
+</functionEntry>
+<functionEntry name="onError" parent="CommListener">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CommExample">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStart" parent="CommExample">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="CommExample">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="CommExample">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

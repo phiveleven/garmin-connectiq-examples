@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="17" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="18" pc="268435488" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="19" pc="268435495" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="20" pc="268435509" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="21" pc="268435523" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="22" pc="268435539" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="23" pc="268435546" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="28" pc="268435577" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="30" pc="268435594" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="31" pc="268435612" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="32" pc="268435630" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="33" pc="268435648" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="35" pc="268435666" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="37" pc="268435673" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="40" pc="268435683" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="42" pc="268435690" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="45" pc="268435700" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="47" pc="268435707" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="50" pc="268435717" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="52" pc="268435724" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="55" pc="268435734" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="56" pc="268435770" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="57" pc="268435782" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="58" pc="268435833" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="59" pc="268435884" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="61" pc="268435935" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="62" pc="268435971" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="63" pc="268436025" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="64" pc="268436079" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="65" pc="268436133" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="67" pc="268436187" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="76" pc="268436215" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="77" pc="268436287" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="81" pc="268436293" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="82" pc="268436365" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="86" pc="268436371" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="87" pc="268436388" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="88" pc="268436406" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="89" pc="268436416" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="90" pc="268436435" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/DefaultPropertiesView.mc" lineNum="91" pc="268436451" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStore.mc" lineNum="14" pc="268436458" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStore.mc" lineNum="21" pc="268436528" symbol="onSettingsChanged"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="17" pc="268436548" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="18" pc="268436578" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="19" pc="268436585" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="20" pc="268436599" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="21" pc="268436613" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="22" pc="268436629" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="23" pc="268436636" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="28" pc="268436667" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="30" pc="268436684" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="31" pc="268436705" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="32" pc="268436726" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="33" pc="268436747" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="34" pc="268436768" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="35" pc="268436789" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="37" pc="268436810" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="39" pc="268436817" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="42" pc="268436827" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="44" pc="268436834" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="47" pc="268436844" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="49" pc="268436851" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="52" pc="268436861" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="54" pc="268436868" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="57" pc="268436878" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="59" pc="268436885" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="62" pc="268436895" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="64" pc="268436902" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="67" pc="268436912" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="68" pc="268436948" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="69" pc="268436960" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="70" pc="268437011" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="72" pc="268437062" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="73" pc="268437098" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="74" pc="268437152" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="75" pc="268437206" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="76" pc="268437260" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="77" pc="268437314" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="78" pc="268437368" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="80" pc="268437422" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="99" pc="268437450" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="100" pc="268437487" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="102" pc="268437500" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="107" pc="268437519" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="108" pc="268437591" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="112" pc="268437597" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="113" pc="268437669" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="118" pc="268437675" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="119" pc="268437702" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="121" pc="268437745" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="123" pc="268437761" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="128" pc="268437767" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="130" pc="268437784" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="132" pc="268437801" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="136" pc="268437846" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="140" pc="268437891" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="144" pc="268437936" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="148" pc="268437978" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="152" pc="268438072" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="156" pc="268438136" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="159" pc="268438162" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="161" pc="268438181" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="163" pc="268438198" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="166" pc="268438214" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="168" pc="268438239" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="169" pc="268438255" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="174" pc="268438261" symbol="onHold"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="175" pc="268438286" symbol="onHold"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="176" pc="268438299" symbol="onHold"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/ObjectStoreView.mc" lineNum="177" pc="268438315" symbol="onHold"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="19" pc="268438321" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="20" pc="268438331" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="21" pc="268438341" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="22" pc="268438351" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="23" pc="268438361" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="27" pc="268438374" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="28" pc="268438381" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="29" pc="268438394" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="30" pc="268438401" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="32" pc="268438408" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="33" pc="268438428" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="34" pc="268438453" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="37" pc="268438507" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="38" pc="268438523" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="41" pc="268438577" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="42" pc="268438602" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="45" pc="268438650" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="46" pc="268438666" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="48" pc="268438694" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="49" pc="268438701" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="52" pc="268438708" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="53" pc="268438729" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="54" pc="268438737" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="56" pc="268438772" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="59" pc="268438804" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ObjectStore/source/PageIndicator.mc" lineNum="60" pc="268438823" symbol="draw"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="23" symbol="ALIGN_TOP_LEFT"/>
+<entry id="10" object="true" symbol="ObjectStore"/>
+<entry field="true" id="20" symbol="ALIGN_BOTTOM_RIGHT"/>
+<entry id="9" object="true" symbol="DefaultPropertiesViewDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="12" symbol="INT_KEY"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="38" symbol="mIndicator"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="36" symbol="string_title"/>
+<entry field="true" id="35" symbol="float_title"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="37" symbol="AppName"/>
+<entry field="true" id="25" symbol="mNotSelectedColor"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry field="true" id="34" symbol="boolean_title"/>
+<entry field="true" id="21" symbol="ALIGN_BOTTOM_LEFT"/>
+<entry field="true" id="13" symbol="FLOAT_KEY"/>
+<entry field="true" id="32" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="19" object="true" symbol="PageIndicator"/>
+<entry id="28" method="true" symbol="setup"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="17" symbol="DICTIONARY_KEY"/>
+<entry field="true" id="33" symbol="number_title"/>
+<entry field="true" id="16" symbol="ARRAY_KEY"/>
+<entry field="true" id="27" symbol="mMargin"/>
+<entry field="true" id="26" symbol="mAlignment"/>
+<entry field="true" id="15" symbol="BOOLEAN_KEY"/>
+<entry id="11" object="true" symbol="ObjectStoreView"/>
+<entry id="31" module="true" symbol="Layouts"/>
+<entry field="true" id="22" symbol="ALIGN_TOP_RIGHT"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry field="true" id="14" symbol="STRING_KEY"/>
+<entry id="8389099" method="true" symbol="onHold"/>
+<entry field="true" id="29" symbol="count"/>
+<entry field="true" id="8389092" symbol="mSize"/>
+<entry field="true" id="24" symbol="mSelectedColor"/>
+<entry id="30" module="true" symbol="Menus"/>
+<entry id="8" object="true" symbol="DefaultPropertiesView"/>
+<entry id="18" object="true" symbol="ObjectStoreViewDelegate"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435574" name="size" stackId="1" startPc="268435458"/>
+<entry endPc="268435574" name="selected" stackId="2" startPc="268435458"/>
+<entry endPc="268435574" name="margin" stackId="5" startPc="268435458"/>
+<entry endPc="268435574" name="notSelected" stackId="3" startPc="268435458"/>
+<entry endPc="268435574" name="alignment" stackId="4" startPc="268435458"/>
+<entry endPc="268436212" name="int" stackId="3" startPc="268435577"/>
+<entry endPc="268436212" name="boolean" stackId="6" startPc="268435577"/>
+<entry endPc="268436212" name="string" stackId="5" startPc="268435577"/>
+<entry endPc="268436212" name="float" stackId="4" startPc="268435577"/>
+<entry endPc="268436212" name="app" stackId="2" startPc="268435577"/>
+<entry endPc="268436454" name="int" stackId="2" startPc="268436371"/>
+<entry endPc="268436454" name="app" stackId="1" startPc="268436371"/>
+<entry endPc="268436664" name="size" stackId="1" startPc="268436548"/>
+<entry endPc="268436664" name="selected" stackId="2" startPc="268436548"/>
+<entry endPc="268436664" name="margin" stackId="5" startPc="268436548"/>
+<entry endPc="268436664" name="notSelected" stackId="3" startPc="268436548"/>
+<entry endPc="268436664" name="alignment" stackId="4" startPc="268436548"/>
+<entry endPc="268437447" name="int" stackId="3" startPc="268436667"/>
+<entry endPc="268437447" name="boolean" stackId="6" startPc="268436667"/>
+<entry endPc="268437447" name="string" stackId="5" startPc="268436667"/>
+<entry endPc="268437447" name="float" stackId="4" startPc="268436667"/>
+<entry endPc="268437447" name="app" stackId="2" startPc="268436667"/>
+<entry endPc="268437447" name="dictionary" stackId="8" startPc="268436667"/>
+<entry endPc="268437447" name="array" stackId="7" startPc="268436667"/>
+<entry endPc="268438258" name="app" stackId="2" startPc="268437767"/>
+<entry endPc="268438847" name="tempX" stackId="8" startPc="268438729"/>
+<entry endPc="268438860" name="i" stackId="7" startPc="268438729"/>
+<entry endPc="268438860" name="x" stackId="5" startPc="268438374"/>
+<entry endPc="268438860" name="height" stackId="3" startPc="268438374"/>
+<entry endPc="268438860" name="width" stackId="4" startPc="268438374"/>
+<entry endPc="268438860" name="y" stackId="6" startPc="268438374"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="DefaultPropertiesView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DefaultPropertiesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="DefaultPropertiesViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="DefaultPropertiesViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="DefaultPropertiesViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="ObjectStore">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="ObjectStore">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ObjectStoreView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ObjectStoreView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ObjectStoreViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="ObjectStoreViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="ObjectStoreViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="ObjectStoreViewDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="ObjectStoreViewDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHold" parent="ObjectStoreViewDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setup" parent="PageIndicator">
+<param id="size"/>
+<param id="selectedColor"/>
+<param id="notSelectedColor"/>
+<param id="alignment"/>
+<param id="margin"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="PageIndicator">
+<param id="dc"/>
+<param id="selectedIndex"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

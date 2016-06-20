@@ -1,0 +1,8 @@
+<resources>
+    <bitmaps>
+        <bitmap id="id_c64" filename="images/logo.png"/>
+    </bitmaps>
+    <fonts>
+    	<font id="id_font_c64" filename="fonts/commodore.fnt" filter="READY0123456789:." />
+    </fonts>
+</resources>

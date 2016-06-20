@@ -1,0 +1,5 @@
+<resources>
+    <fonts>
+    	<font id="id_gamecube_120" filename="fonts/gamecube-120.fnt" filter="0123456789"/>
+    </fonts>
+</resources>

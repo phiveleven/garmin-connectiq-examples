@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsApp.mc" lineNum="12" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsApp.mc" lineNum="25" pc="268435491" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="16" pc="268435531" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="21" pc="268435558" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="31" pc="268435601" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="33" pc="268435621" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="34" pc="268435634" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="35" pc="268435647" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="36" pc="268435664" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="37" pc="268435664" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="39" pc="268435664" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="40" pc="268435681" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="42" pc="268435712" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="45" pc="268435790" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="49" pc="268435844" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="50" pc="268435875" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="51" pc="268435891" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="52" pc="268435916" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="54" pc="268435942" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="55" pc="268435979" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="57" pc="268436005" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="58" pc="268436041" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="59" pc="268436074" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="60" pc="268436110" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="71" pc="268436146" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="72" pc="268436344" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="73" pc="268436352" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="74" pc="268436371" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="75" pc="268436390" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="76" pc="268436411" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="79" pc="268436432" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="81" pc="268436450" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="82" pc="268436481" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="83" pc="268436512" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="87" pc="268436562" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Layouts/source/LayoutsView.mc" lineNum="88" pc="268436576" symbol="drawHand"/>
+<entry filename="Rez" lineNum="21" pc="268436593" symbol="initialize"/>
+<entry filename="Rez" lineNum="25" pc="268436620" symbol="draw"/>
+<entry filename="Rez" lineNum="26" pc="268436627" symbol="draw"/>
+<entry filename="Rez" lineNum="27" pc="268436634" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268436647" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268436660" symbol="draw"/>
+<entry filename="Rez" lineNum="33" pc="268436685" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="35" pc="268436721" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="37" pc="268436772" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="39" pc="268436823" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="41" pc="268436874" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="53" pc="268437243" symbol="initialize"/>
+<entry filename="Rez" lineNum="57" pc="268437270" symbol="draw"/>
+<entry filename="Rez" lineNum="58" pc="268437277" symbol="draw"/>
+<entry filename="Rez" lineNum="59" pc="268437284" symbol="draw"/>
+<entry filename="Rez" lineNum="60" pc="268437297" symbol="draw"/>
+<entry filename="Rez" lineNum="61" pc="268437310" symbol="draw"/>
+<entry filename="Rez" lineNum="65" pc="268437335" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="67" pc="268437371" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="69" pc="268437621" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="71" pc="268437871" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="73" pc="268438121" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="75" pc="268438371" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="77" pc="268438621" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="79" pc="268438871" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="81" pc="268439121" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="95" pc="268439374" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="96" pc="268439410" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="97" pc="268439421" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="99" pc="268439437" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="100" pc="268439473" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="101" pc="268439484" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="103" pc="268439500" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="104" pc="268439514" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="105" pc="268439647" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="106" pc="268439661" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="107" pc="268439794" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="108" pc="268439808" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="109" pc="268439941" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="110" pc="268439955" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="111" pc="268440088" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="9" object="true" symbol="LayoutsView"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="22" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8" object="true" symbol="LayoutsApp"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="20" symbol="label_12"/>
+<entry id="14" object="true" symbol="background"/>
+<entry field="true" id="21" symbol="label_9"/>
+<entry field="true" id="18" symbol="label_6"/>
+<entry field="true" id="19" symbol="label_3"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="10" method="true" symbol="drawHand"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="15" object="true" symbol="clock_ticks"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="16" method="true" symbol="drawComplex"/>
+<entry id="8389346" symbol="text"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436143" name="height" stackId="3" startPc="268435601"/>
+<entry endPc="268436143" name="hour" stackId="5" startPc="268435601"/>
+<entry endPc="268436143" name="dateStr" stackId="9" startPc="268435601"/>
+<entry endPc="268436143" name="now" stackId="7" startPc="268435601"/>
+<entry endPc="268436143" name="min" stackId="6" startPc="268435601"/>
+<entry endPc="268436143" name="width" stackId="2" startPc="268435601"/>
+<entry endPc="268436143" name="clockTime" stackId="4" startPc="268435601"/>
+<entry endPc="268436143" name="info" stackId="8" startPc="268435601"/>
+<entry endPc="268436549" name="x" stackId="12" startPc="268436450"/>
+<entry endPc="268436549" name="y" stackId="13" startPc="268436450"/>
+<entry endPc="268436562" name="i" stackId="11" startPc="268436450"/>
+<entry endPc="268436590" name="result" stackId="6" startPc="268436146"/>
+<entry endPc="268436590" name="sin" stackId="10" startPc="268436146"/>
+<entry endPc="268436590" name="cos" stackId="9" startPc="268436146"/>
+<entry endPc="268436590" name="centerY" stackId="8" startPc="268436146"/>
+<entry endPc="268436590" name="coords" stackId="5" startPc="268436146"/>
+<entry endPc="268436590" name="centerX" stackId="7" startPc="268436146"/>
+<entry endPc="268436682" name="pWidth" stackId="4" startPc="268436620"/>
+<entry endPc="268436682" name="pY" stackId="3" startPc="268436620"/>
+<entry endPc="268436682" name="pX" stackId="2" startPc="268436620"/>
+<entry endPc="268436682" name="pHeight" stackId="5" startPc="268436620"/>
+<entry endPc="268437332" name="pWidth" stackId="4" startPc="268437270"/>
+<entry endPc="268437332" name="pY" stackId="3" startPc="268437270"/>
+<entry endPc="268437332" name="pX" stackId="2" startPc="268437270"/>
+<entry endPc="268437332" name="pHeight" stackId="5" startPc="268437270"/>
+<entry endPc="268440155" name="rez_cmp_local_label_2KWF41XFMB_font" stackId="6" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_label_CGHXM2XXXT" stackId="11" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_label_VTVGALO9SU_font" stackId="4" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_label_VTVGALO9SU" stackId="5" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_label_LVFNVLQDU4_font" stackId="8" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_drawable_reference_background" stackId="2" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_label_CGHXM2XXXT_font" stackId="10" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_label_2KWF41XFMB" stackId="7" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_drawable_reference_clock_ticks" stackId="3" startPc="268439374"/>
+<entry endPc="268440155" name="rez_cmp_local_label_LVFNVLQDU4" stackId="9" startPc="268439374"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="LayoutsApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="LayoutsApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="LayoutsApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="LayoutsApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="LayoutsView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="LayoutsView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="LayoutsView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="LayoutsView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawHand" parent="LayoutsView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<documentation><![CDATA[<div class="description"> Draw the watch hand<br/> <div class="param"> dc Device Context to Draw</div><br/> <div class="param"> angle Angle to draw the watch hand</div><br/> <div class="param"> length Length of the watch hand</div><br/> <div class="param"> width Width of the watch hand</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="background">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="clock_ticks">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="clock_ticks">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="clock_ticks">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

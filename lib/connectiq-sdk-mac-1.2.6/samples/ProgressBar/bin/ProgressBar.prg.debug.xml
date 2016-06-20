@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBar.mc" lineNum="21" pc="268435464" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="15" pc="268435535" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="17" pc="268435535" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="18" pc="268435571" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="19" pc="268435583" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="20" pc="268435619" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="21" pc="268435626" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="34" pc="268435678" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="36" pc="268435691" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="39" pc="268435728" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="40" pc="268435768" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="41" pc="268435805" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="42" pc="268435818" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="47" pc="268435862" symbol="timerCallback"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="49" pc="268435881" symbol="timerCallback"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="51" pc="268435898" symbol="timerCallback"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="52" pc="268435916" symbol="timerCallback"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="56" pc="268435964" symbol="timerCallback"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ProgressBar/source/ProgressBarView.mc" lineNum="60" pc="268436007" symbol="timerCallback"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="13" symbol="AppName"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8" object="true" symbol="MyApp"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="15" symbol="timer"/>
+<entry field="true" id="14" symbol="progressBar"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="16" symbol="count"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388656" object="true" symbol="InputDelegate"/>
+<entry id="9" object="true" symbol="MyWatchView"/>
+<entry id="17" method="true" symbol="timerCallback"/>
+<entry id="8388646" symbol="Timer"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435674" name="string" stackId="2" startPc="268435535"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onStart" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="MyApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="MyWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="timerCallback" parent="InputDelegate">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

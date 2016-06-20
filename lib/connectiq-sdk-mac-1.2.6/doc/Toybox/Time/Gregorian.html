@@ -1,0 +1,768 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+  Module: Toybox::Time::Gregorian
+  
+    &mdash; Connect IQ SDK
+  
+</title>
+
+  <link rel="stylesheet" href="../../css/style.css" type="text/css" charset="utf-8" />
+
+  <link rel="stylesheet" href="../../css/common.css" type="text/css" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  hasFrames = window.top.frames.main ? true : false;
+  relpath = '../../';
+  framesUrl = "../../frames.html#!Toybox/Time/Gregorian.html";
+</script>
+
+
+  <script type="text/javascript" charset="utf-8" src="../../js/jquery.js"></script>
+
+  <script type="text/javascript" charset="utf-8" src="../../js/app.js"></script>
+
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../../_index.html">Index (G)</a> &raquo;
+    <span class='title'><span class='object_link'><a href="../../Toybox.html" title="Toybox (module)">Toybox</a></span></span> &raquo; <span class='title'><span class='object_link'><a href="../Time.html" title="Toybox::Time (module)">Time</a></span></span>
+     &raquo; 
+    <span class="title">Gregorian</span>
+  
+
+  <div class="noframes"><span class="title">(</span><a href="." target="_top">no frames</a><span class="title">)</span></div>
+</div>
+
+      <div id="search">
+  
+    <a class="full_list_link" id="class_list_link"
+        href="../../class_list.html">
+      Class List
+    </a>
+  
+    <a class="full_list_link" id="method_list_link"
+        href="../../method_list.html">
+      Method List
+    </a>
+  
+    <a class="full_list_link" id="file_list_link"
+        href="../../file_list.html">
+      File List
+    </a>
+  
+</div>
+      <div class="clear"></div>
+    </div>
+
+    <iframe id="search_frame"></iframe>
+
+    <div id="content"><h1>Module: Toybox::Time::Gregorian
+  
+  
+  
+</h1>
+
+<dl class="box">
+  
+  
+    
+  
+    
+  
+  
+</dl>
+<div class="clear"></div>
+
+<h2>Overview</h2><div class="docstring">
+  <div class="discussion">
+    
+<p>Gregorian provides an interface for getting Moments and Durations for the
+Gregorian calendar.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div><h2>Defined Under Namespace</h2>
+<p class="children">
+  
+    
+  
+    
+      <strong class="classes">Classes:</strong> <span class='object_link'><a href="Gregorian/Info.html" title="Toybox::Time::Gregorian::Info (class)">Info</a></span>
+    
+  
+</p>
+
+  <h2>Constant Summary</h2>
+  
+    <dl class="constants">
+      
+        <dt id="SECONDS_PER_YEAR-constant" class="">SECONDS_PER_YEAR = 31557600  <div class="docstring">
+  <div class="discussion">
+    
+<p>Time constant for number of seconds in a year</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+        <dt id="SECONDS_PER_DAY-constant" class="">SECONDS_PER_DAY = 86400  <div class="docstring">
+  <div class="discussion">
+    
+<p>Time constant for number of seconds in a day</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+        <dt id="SECONDS_PER_HOUR-constant" class="">SECONDS_PER_HOUR = 3600  <div class="docstring">
+  <div class="discussion">
+    
+<p>Time constant for number of seconds in an hour</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+        <dt id="SECONDS_PER_MINUTE-constant" class="">SECONDS_PER_MINUTE = 60  <div class="docstring">
+  <div class="discussion">
+    
+<p>Time constant for number of seconds in a minute</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+    </dl>
+  
+
+
+
+
+
+
+
+  
+    <h2>
+      Instance Method Summary
+      <small>(<a href="#" class="summary_toggle">collapse</a>)</small>
+    </h2>
+
+    <ul class="summary">
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#duration-instance_method" title="#duration (instance method)">- (Duration) <strong>duration</strong>(options) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Create a Duration object from a hash of options using duration().</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#info-instance_method" title="#info (instance method)">- (Info) <strong>info</strong>(date, format) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use info() to retrieve a Gregorian.Info for a date.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#moment-instance_method" title="#moment (instance method)">- (Moment) <strong>moment</strong>(options) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Create a Moment object from a hash table of options with moment().</p>
+</div></span>
+  
+</li>
+
+      
+    </ul>
+  
+
+
+
+  <div id="instance_method_details" class="method_details_list">
+    <h2>Instance Method Details</h2>
+
+    
+      <div class="method_details first">
+  <h3 class="signature first" id="duration-instance_method">
+  
+    - (<tt><span class='object_link'><a href="Duration.html" title="Toybox::Time::Duration (class)">Duration</a></span></tt>) <strong>duration</strong>(options) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Create a Duration object from a hash of options using duration().</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>options</span>
+      
+      
+        <span class='type'>(<tt>Dictionary</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Hash table of options</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+  
+    
+    
+    <p class="tag_title">Options Hash (<tt>options</tt>):</p>
+    <ul class="option">
+      
+        <li>
+          <span class="name">:years</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The number of years</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:days</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The number of days</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:hours</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The number of hours</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:minutes</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The number of minutes</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:seconds</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The number of seconds</p>
+</div>
+          
+        </li>
+      
+    </ul>
+  
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="Duration.html" title="Toybox::Time::Duration (class)">Duration</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>The Duration object created using the options</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="info-instance_method">
+  
+    - (<tt><span class='object_link'><a href="Gregorian/Info.html" title="Toybox::Time::Gregorian::Info (class)">Info</a></span></tt>) <strong>info</strong>(date, format) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use info() to retrieve a Gregorian.Info for a date.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>date</span>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="Moment.html" title="Toybox::Time::Moment (class)">Moment</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Moment object to get Info from</p>
+</div>
+      
+    </li>
+  
+    <li>
+      
+        <span class='name'>format</span>
+      
+      
+        <span class='type'>(<tt>Number</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Time FORMAT_XXX constant to use</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="Gregorian/Info.html" title="Toybox::Time::Gregorian::Info (class)">Info</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>For FORMAT_SHORT, all values in Info are integers. For FORMAT_MEDIUM and
+FORMAT_LONG, the month/day fields have the strings for the date in
+question.</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="moment-instance_method">
+  
+    - (<tt><span class='object_link'><a href="Moment.html" title="Toybox::Time::Moment (class)">Moment</a></span></tt>) <strong>moment</strong>(options) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Create a Moment object from a hash table of options with moment(). The
+Moment is created from the current time. For instance, if the current day
+is April 1 and you pass in a :day value of 1 the returned Moment&#39;s day
+will be April 2.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>options</span>
+      
+      
+        <span class='type'>(<tt>Dictionary</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>Hash table of options</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+  
+    
+    
+    <p class="tag_title">Options Hash (<tt>options</tt>):</p>
+    <ul class="option">
+      
+        <li>
+          <span class="name">:year</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The year</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:month</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The month</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:day</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The day</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:hour</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The hour</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:minute</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The minute</p>
+</div>
+          
+        </li>
+      
+        <li>
+          <span class="name">:second</span>
+          <span class="type">(<tt>Number</tt>)</span>
+          <span class="default">
+            
+          </span>
+          
+            &mdash; <div class='inline'>
+<p>The second</p>
+</div>
+          
+        </li>
+      
+    </ul>
+  
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="Moment.html" title="Toybox::Time::Moment (class)">Moment</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>The Moment object created using the options</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+  </div>
+
+</div>
+
+    <div id="footer">
+  Generated on Wed Mar  9 15:48:17 2016 by
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool" target="_parent">yard</a>
+  0.8.7.6 (ruby-2.0.0).
+</div>
+
+  </body>
+</html>

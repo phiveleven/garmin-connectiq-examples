@@ -1,0 +1,20 @@
+MB_HOME="$( cd "$( dirname "$0" )" && pwd )"
+PRG_PATH="$(echo "$1" | sed 's/ /%20/g')"
+FILE=`echo $(basename "$PRG_PATH" | tr '[:lower:]' '[:upper:]')`
+
+DEVICE_ID=$2
+if [ -z "$2" ]
+  then
+    DEVICE_ID="square_watch"
+fi
+
+for i in {1234..1238}; do
+    "$MB_HOME"/shell --transport=tcp --transport_args=127.0.0.1:$i push "$PRG_PATH" "0:/GARMIN/APPS/$FILE"
+    if [ $? -eq 1 ]; then
+        continue
+    fi
+    "$MB_HOME"/shell --transport=tcp --transport_args=127.0.0.1:$i tvm "0:/GARMIN/APPS/$FILE" $DEVICE_ID
+    if [ $? -ne 1 ]; then
+        break;
+    fi
+done

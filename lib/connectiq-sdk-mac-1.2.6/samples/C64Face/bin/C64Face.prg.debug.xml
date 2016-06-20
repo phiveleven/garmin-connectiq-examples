@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="24" pc="268435458" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="25" pc="268435501" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="35" pc="268435550" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="36" pc="268435550" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="37" pc="268435563" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="38" pc="268435599" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="40" pc="268435611" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="41" pc="268435624" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="43" pc="268435660" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="44" pc="268435696" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="45" pc="268435709" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="47" pc="268435762" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="48" pc="268435798" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="55" pc="268435869" symbol="makeClockTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="56" pc="268435886" symbol="makeClockTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="58" pc="268435886" symbol="makeClockTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="59" pc="268435902" symbol="makeClockTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="60" pc="268435925" symbol="makeClockTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="63" pc="268435935" symbol="makeClockTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="70" pc="268435999" symbol="calcPosition"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="71" pc="268436028" symbol="calcPosition"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="73" pc="268436057" symbol="calcPosition"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="81" pc="268436088" symbol="onStart"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="86" pc="268436094" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/C64Face/source/C64Face.mc" lineNum="91" pc="268436134" symbol="onStop"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="15" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="12" symbol="id_c64"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="16" symbol="bmp"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="9" object="true" symbol="C64Face"/>
+<entry id="8388641" symbol="Math"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="18" method="true" symbol="calcPosition"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="14" symbol="id_font_c64"/>
+<entry id="17" symbol="makeClockTime"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8" object="true" symbol="C64View"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388640" symbol="Lang"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435866" name="end" stackId="3" startPc="268435550"/>
+<entry endPc="268435866" name="time" stackId="4" startPc="268435550"/>
+<entry endPc="268435866" name="pos" stackId="5" startPc="268435550"/>
+<entry endPc="268435866" name="start" stackId="2" startPc="268435550"/>
+<entry endPc="268435996" name="result" stackId="4" startPc="268435869"/>
+<entry endPc="268435996" name="hour" stackId="2" startPc="268435869"/>
+<entry endPc="268435996" name="min" stackId="3" startPc="268435869"/>
+<entry endPc="268435996" name="clockTime" stackId="1" startPc="268435869"/>
+<entry endPc="268436084" name="x" stackId="1" startPc="268435999"/>
+<entry endPc="268436084" name="y" stackId="2" startPc="268435999"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onLayout" parent="C64View">
+<documentation><![CDATA[<div class="description"> Load the resources required for the watch face<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="C64View">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="C64View">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the clock face graphics during update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="makeClockTime" parent="C64View">
+<documentation><![CDATA[<div class="description"> Get the time from the clock and format it for<br/> the watch face<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="calcPosition" parent="C64View">
+<documentation><![CDATA[<div class="description"> Compute a random position for the READY<br/> to appear<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStart" parent="C64Face">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="C64Face">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="C64Face">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

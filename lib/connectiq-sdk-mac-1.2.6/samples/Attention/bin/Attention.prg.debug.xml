@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionApp.mc" lineNum="22" pc="268435464" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="47" pc="268435535" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="48" pc="268435562" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="49" pc="268435587" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="50" pc="268435611" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="52" pc="268435630" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="53" pc="268435659" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="55" pc="268435675" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="57" pc="268435694" symbol="onKey"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="61" pc="268435700" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="62" pc="268435709" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="63" pc="268435726" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="64" pc="268435750" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="65" pc="268435766" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="69" pc="268435772" symbol="onHold"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="70" pc="268435781" symbol="onHold"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="71" pc="268435805" symbol="onHold"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionDelegate.mc" lineNum="72" pc="268435821" symbol="onHold"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionView.mc" lineNum="22" pc="268435834" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionView.mc" lineNum="23" pc="268435870" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionView.mc" lineNum="24" pc="268435882" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionView.mc" lineNum="26" pc="268435933" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Attention/source/AttentionView.mc" lineNum="27" pc="268435946" symbol="onUpdate"/>
+<entry filename="Rez" lineNum="13" pc="268436016" symbol="initialize"/>
+<entry filename="Rez" lineNum="14" pc="268436034" symbol="initialize"/>
+<entry filename="Rez" lineNum="15" pc="268436056" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="10" object="true" symbol="InputHandler"/>
+<entry id="8389099" method="true" symbol="onHold"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="19" symbol="toneIdx"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="23" symbol="item_2"/>
+<entry id="22" symbol="item_1"/>
+<entry id="16" object="true" symbol="MainMenu"/>
+<entry field="true" id="21" symbol="vibrateData"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388636" symbol="Attention"/>
+<entry field="true" id="20" symbol="toneNames"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="18" symbol="backlightOn"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8" object="true" symbol="AttentionApp"/>
+<entry field="true" id="14" symbol="id_monkey"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="11" object="true" symbol="AttentionView"/>
+<entry field="true" id="9" symbol="currentTone"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars/>
+<annotations/>
+<functions>
+<functionEntry name="onStart" parent="AttentionApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="AttentionApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="AttentionApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onKey" parent="InputHandler">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="InputHandler">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHold" parent="InputHandler">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="AttentionView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="AttentionView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AttentionView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="AttentionView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of your app here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

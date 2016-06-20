@@ -1,0 +1,39 @@
+<compilerInfo>
+
+    <!--
+    The version of the compiler. This format should be
+    <int>.<int>.<int> with an optional -<string message/tag> at the end.
+
+    For example 1.2.0-dev9 would be valid, 1.2-dev is not valid.
+    -->
+    <version>1.2.6</version>
+
+    <!--
+    Information about the exit codes the compiler returns.
+    -->
+    <exitCodes>
+
+        <code value="0" meaning="success" />
+
+        <!--
+        Compiler Errors
+        -->
+        <code value="100" meaning="general error" />
+        <code value="101" meaning="bad parameters" />
+        <code value="102" meaning="bad manifest file" />
+        <code value="103" meaning="given device not found" />
+
+        <!--
+        Package Errors
+        -->
+        <code value="200" meaning="general package error" />
+        <code value="201" meaning="problems with the provided compiled programs" />
+        <code value="202" meaning="provided compiled program isn't a CIQ program" />
+        <code value="203" meaning="couldn't verify compiled program" />
+        <code value="204" meaning="bad manifest file (packaging)" />
+        <code value="205" meaning="bad output directory (packaging)" />
+        <code value="206" meaning="no package option exists" />
+
+    </exitCodes>
+
+</compilerInfo>

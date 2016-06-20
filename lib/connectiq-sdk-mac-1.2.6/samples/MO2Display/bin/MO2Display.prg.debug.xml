@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="19" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="21" pc="268435468" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="22" pc="268435498" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="23" pc="268435505" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="24" pc="268435519" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="25" pc="268435533" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="26" pc="268435549" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="28" pc="268435580" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="33" pc="268435593" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="34" pc="268435629" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="36" pc="268435641" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="37" pc="268435654" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="38" pc="268435667" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="39" pc="268435674" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="40" pc="268435674" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="41" pc="268435674" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="43" pc="268435674" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="44" pc="268435681" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="45" pc="268435695" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="46" pc="268435712" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="47" pc="268435748" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="49" pc="268435795" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="50" pc="268435802" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="51" pc="268435816" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="52" pc="268435833" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="53" pc="268435869" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="55" pc="268435925" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="57" pc="268435948" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="58" pc="268435955" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="59" pc="268435972" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="60" pc="268436008" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="62" pc="268436067" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="63" pc="268436074" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="64" pc="268436088" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="65" pc="268436105" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="66" pc="268436141" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="70" pc="268436206" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="71" pc="268436213" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="72" pc="268436230" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="73" pc="268436266" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/CommandView.mc" lineNum="77" pc="268436325" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="22" pc="268436356" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="24" pc="268436366" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="25" pc="268436386" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="26" pc="268436406" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="28" pc="268436426" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="29" pc="268436456" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="30" pc="268436463" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="31" pc="268436477" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="32" pc="268436491" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="33" pc="268436507" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="35" pc="268436538" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="40" pc="268436551" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="41" pc="268436587" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="43" pc="268436599" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="44" pc="268436612" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="45" pc="268436625" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="46" pc="268436632" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="47" pc="268436648" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="48" pc="268436655" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="49" pc="268436655" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="50" pc="268436655" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="53" pc="268436655" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="54" pc="268436691" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="55" pc="268436701" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="56" pc="268436708" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="57" pc="268436725" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="59" pc="268436772" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="60" pc="268436808" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="61" pc="268436818" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="62" pc="268436854" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="63" pc="268436871" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="65" pc="268436927" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="66" pc="268436963" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="67" pc="268436973" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="68" pc="268436980" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="71" pc="268437039" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="72" pc="268437075" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="73" pc="268437082" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="74" pc="268437099" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="76" pc="268437152" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="77" pc="268437188" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="78" pc="268437198" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="79" pc="268437234" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="80" pc="268437251" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="83" pc="268437313" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="84" pc="268437349" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="85" pc="268437359" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="86" pc="268437366" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="87" pc="268437383" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="89" pc="268437430" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="90" pc="268437466" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="91" pc="268437476" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="92" pc="268437512" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="93" pc="268437529" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="95" pc="268437585" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="96" pc="268437621" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="97" pc="268437631" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="98" pc="268437638" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="101" pc="268437697" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="102" pc="268437733" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="103" pc="268437743" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="104" pc="268437750" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="105" pc="268437767" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="107" pc="268437820" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="108" pc="268437856" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="109" pc="268437866" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="110" pc="268437902" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="111" pc="268437919" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="113" pc="268437981" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="114" pc="268438017" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="115" pc="268438027" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="116" pc="268438034" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/DataView.mc" lineNum="119" pc="268438099" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="24" pc="268438130" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="25" pc="268438143" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="27" pc="268438175" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="29" pc="268438186" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="31" pc="268438210" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="32" pc="268438221" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="33" pc="268438231" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="39" pc="268438244" symbol="setColor"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="45" pc="268438257" symbol="setMinRange"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="50" pc="268438270" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="51" pc="268438274" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="53" pc="268438278" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="55" pc="268438309" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="58" pc="268438328" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="59" pc="268438344" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="63" pc="268438363" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="65" pc="268438383" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="69" pc="268438437" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="72" pc="268438444" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="74" pc="268438464" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="78" pc="268438518" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="82" pc="268438525" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="84" pc="268438544" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="85" pc="268438563" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="87" pc="268438592" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="90" pc="268438608" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="92" pc="268438613" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="93" pc="268438613" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="94" pc="268438629" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="96" pc="268438659" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="98" pc="268438676" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="101" pc="268438705" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="104" pc="268438724" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="106" pc="268438729" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="107" pc="268438729" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="108" pc="268438745" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="110" pc="268438775" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="112" pc="268438792" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="115" pc="268438821" symbol="addItem"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="128" pc="268438846" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="129" pc="268438846" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="130" pc="268438846" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="131" pc="268438846" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="132" pc="268438846" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="133" pc="268438846" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="134" pc="268438846" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="135" pc="268438871" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="136" pc="268438896" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="137" pc="268438896" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="139" pc="268438903" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="140" pc="268438910" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="141" pc="268438932" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="142" pc="268438942" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="143" pc="268438964" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="144" pc="268438974" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="145" pc="268438996" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="146" pc="268439006" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="147" pc="268439028" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="150" pc="268439038" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="153" pc="268439057" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="156" pc="268439085" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="157" pc="268439101" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="158" pc="268439132" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="160" pc="268439145" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="162" pc="268439159" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="163" pc="268439181" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="166" pc="268439194" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="167" pc="268439204" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="168" pc="268439244" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="169" pc="268439247" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="171" pc="268439280" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="173" pc="268439296" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="174" pc="268439300" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="175" pc="268439331" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="177" pc="268439344" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="179" pc="268439351" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="180" pc="268439371" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="181" pc="268439375" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="182" pc="268439385" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="186" pc="268439444" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="188" pc="268439465" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="190" pc="268439481" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="191" pc="268439485" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="192" pc="268439516" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="194" pc="268439529" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="196" pc="268439536" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="197" pc="268439556" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="198" pc="268439560" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/Graph.mc" lineNum="199" pc="268439570" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="24" pc="268439635" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="26" pc="268439645" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="27" pc="268439675" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="28" pc="268439682" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="29" pc="268439696" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="30" pc="268439710" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="31" pc="268439726" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="33" pc="268439757" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="34" pc="268439809" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="35" pc="268439861" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="37" pc="268439935" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="42" pc="268439948" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="43" pc="268439984" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="45" pc="268439996" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="46" pc="268440009" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="48" pc="268440022" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="49" pc="268440069" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="51" pc="268440116" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="53" pc="268440141" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="54" pc="268440177" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="55" pc="268440202" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="58" pc="268440219" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="59" pc="268440255" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="60" pc="268440314" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="61" pc="268440350" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="64" pc="268440397" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="65" pc="268440404" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="67" pc="268440429" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="68" pc="268440465" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="69" pc="268440518" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="70" pc="268440554" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="73" pc="268440595" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="74" pc="268440611" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="76" pc="268440618" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="77" pc="268440654" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="78" pc="268440722" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="79" pc="268440758" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="82" pc="268440814" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="83" pc="268440919" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="84" pc="268441036" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="85" pc="268441153" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="88" pc="268441285" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="90" pc="268441310" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="91" pc="268441346" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="92" pc="268441371" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="95" pc="268441388" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="96" pc="268441424" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="97" pc="268441477" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="98" pc="268441513" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="100" pc="268441554" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="101" pc="268441561" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="103" pc="268441586" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="104" pc="268441622" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="105" pc="268441678" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="106" pc="268441714" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="109" pc="268441758" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="110" pc="268441774" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="112" pc="268441781" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="113" pc="268441817" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="114" pc="268441879" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="115" pc="268441915" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="118" pc="268441965" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="119" pc="268442067" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="120" pc="268442181" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="121" pc="268442295" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="125" pc="268442424" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="130" pc="268442455" symbol="pickFont"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="132" pc="268442480" symbol="pickFont"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="134" pc="268442491" symbol="pickFont"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="136" pc="268442521" symbol="pickFont"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="138" pc="268442536" symbol="pickFont"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/GraphView.mc" lineNum="141" pc="268442549" symbol="pickFont"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="19" pc="268442567" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="21" pc="268442577" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="23" pc="268442620" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="24" pc="268442650" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="25" pc="268442657" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="26" pc="268442671" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="27" pc="268442685" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="28" pc="268442701" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="30" pc="268442732" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="35" pc="268442745" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="36" pc="268442781" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="38" pc="268442793" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="39" pc="268442806" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="40" pc="268442819" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="41" pc="268442826" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="44" pc="268442840" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="47" pc="268442873" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="49" pc="268442893" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="50" pc="268442900" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="51" pc="268442917" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="52" pc="268442953" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="56" pc="268443006" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="57" pc="268443028" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="58" pc="268443047" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="59" pc="268443064" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="60" pc="268443100" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MainView.mc" lineNum="64" pc="268443160" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="18" pc="268443191" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="19" pc="268443201" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="24" pc="268443214" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="25" pc="268443242" symbol="onNextPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="29" pc="268443311" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="30" pc="268443333" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="32" pc="268443350" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="34" pc="268443366" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="35" pc="268443388" symbol="onPreviousPage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="39" pc="268443457" symbol="onSwipe"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="41" pc="268443484" symbol="onSwipe"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="45" pc="268443526" symbol="onSwipe"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="50" pc="268443544" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="52" pc="268443561" symbol="onTap"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="58" pc="268443585" symbol="getView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="60" pc="268443585" symbol="getView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="62" pc="268443596" symbol="getView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="66" pc="268443644" symbol="getView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="70" pc="268443692" symbol="getView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="74" pc="268443729" symbol="getView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="77" pc="268443763" symbol="getView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="82" pc="268443769" symbol="getDelegate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Delegate.mc" lineNum="83" pc="268443803" symbol="getDelegate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2DisplayApp.mc" lineNum="19" pc="268443809" symbol="onStart"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2DisplayApp.mc" lineNum="20" pc="268443839" symbol="onStart"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2DisplayApp.mc" lineNum="27" pc="268443860" symbol="onStop"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2DisplayApp.mc" lineNum="34" pc="268443881" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2DisplayApp.mc" lineNum="35" pc="268443888" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="36" pc="268443979" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="37" pc="268443992" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="38" pc="268444002" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="39" pc="268444012" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="40" pc="268444025" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="41" pc="268444038" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="42" pc="268444051" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="63" pc="268444067" symbol="parse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="64" pc="268444088" symbol="parse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="65" pc="268444109" symbol="parse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="66" pc="268444130" symbol="parse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="67" pc="268444151" symbol="parse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="68" pc="268444172" symbol="parse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="69" pc="268444193" symbol="parse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="74" pc="268444217" symbol="parseEventCount"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="79" pc="268444229" symbol="parseTimeSet"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="81" pc="268444246" symbol="parseTimeSet"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="85" pc="268444252" symbol="parseTimeSet"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="91" pc="268444258" symbol="parseSupportAntfs"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="93" pc="268444275" symbol="parseSupportAntfs"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="97" pc="268444281" symbol="parseSupportAntfs"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="103" pc="268444287" symbol="parseMeasureInterval"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="104" pc="268444304" symbol="parseMeasureInterval"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="105" pc="268444311" symbol="parseMeasureInterval"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="107" pc="268444325" symbol="parseMeasureInterval"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="111" pc="268444349" symbol="parseMeasureInterval"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="115" pc="268444373" symbol="parseMeasureInterval"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="119" pc="268444397" symbol="parseMeasureInterval"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="121" pc="268444407" symbol="parseMeasureInterval"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="126" pc="268444413" symbol="parseTotalHemo"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="131" pc="268444453" symbol="parsePrevHemo"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="136" pc="268444500" symbol="parseCurrentHemo"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="155" pc="268444546" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="158" pc="268444604" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="161" pc="268444646" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="170" pc="268444796" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="172" pc="268444822" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="173" pc="268444852" symbol="initialize"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="179" pc="268444865" symbol="open"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="181" pc="268444883" symbol="open"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="182" pc="268444913" symbol="open"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="183" pc="268444926" symbol="open"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="188" pc="268444939" symbol="closeSensor"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="193" pc="268444960" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="197" pc="268444992" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="198" pc="268445000" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="199" pc="268445013" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="200" pc="268445026" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="201" pc="268445039" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="204" pc="268445052" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="205" pc="268445069" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="207" pc="268445087" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="211" pc="268445132" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="212" pc="268445160" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="213" pc="268445174" symbol="setTime"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="220" pc="268445200" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="222" pc="268445213" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="224" pc="268445237" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="227" pc="268445278" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="229" pc="268445289" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="231" pc="268445299" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="233" pc="268445327" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="234" pc="268445351" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="236" pc="268445382" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="238" pc="268445408" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="239" pc="268445424" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="245" pc="268445479" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="247" pc="268445509" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="250" pc="268445539" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="254" pc="268445584" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/MO2Sensor.mc" lineNum="255" pc="268445594" symbol="onMessage"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="19" pc="268445622" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="20" pc="268445632" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="21" pc="268445642" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="22" pc="268445652" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="23" pc="268445662" symbol="setup"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="27" pc="268445675" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="28" pc="268445682" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="29" pc="268445695" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="30" pc="268445702" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="32" pc="268445709" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="33" pc="268445729" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="34" pc="268445754" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="37" pc="268445802" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="38" pc="268445818" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="41" pc="268445866" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="42" pc="268445891" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="45" pc="268445930" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="46" pc="268445946" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="48" pc="268445965" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="49" pc="268445972" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="52" pc="268445979" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="53" pc="268446000" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="54" pc="268446008" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="56" pc="268446043" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="59" pc="268446075" symbol="draw"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/MO2Display/source/PageIndicator.mc" lineNum="60" pc="268446094" symbol="draw"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="82" symbol="ALIGN_TOP_LEFT"/>
+<entry id="8388644" symbol="System"/>
+<entry id="8389101" method="true" symbol="onSwipe"/>
+<entry id="49" object="true" symbol="MO2Data"/>
+<entry field="true" id="79" symbol="ALIGN_BOTTOM_RIGHT"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="20" method="true" symbol="getView"/>
+<entry id="51" object="true" symbol="CommandDataPage"/>
+<entry id="8389256" method="true" symbol="open"/>
+<entry field="true" id="73" symbol="supportsAntFs"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="16" object="true" symbol="MO2DisplayApp"/>
+<entry id="52" method="true" symbol="closeSensor"/>
+<entry id="8389299" method="true" symbol="parse"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="66" symbol="parseCurrentHemo"/>
+<entry id="8389095" method="true" symbol="addItem"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="59" symbol="INTERVAL_2"/>
+<entry field="true" id="58" symbol="INTERVAL_1"/>
+<entry id="22" symbol="mIndicator"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="19" symbol="mSensor"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="63" symbol="parseMeasureInterval"/>
+<entry id="8389270" symbol="messagePeriod"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="47" symbol="pastEventCount"/>
+<entry id="33" symbol="graphIndex"/>
+<entry id="8389245" symbol="deviceType"/>
+<entry field="true" id="75" symbol="totalHemoConcentration"/>
+<entry field="true" id="8388889" symbol="mIndex"/>
+<entry id="41" symbol="mUnitFont"/>
+<entry id="44" symbol="chanAssign"/>
+<entry id="17" object="true" symbol="MO2Sensor"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="36" symbol="graphColor"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry field="true" id="45" symbol="data"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="57" symbol="INTERVAL_50"/>
+<entry id="11" object="true" symbol="DataView"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry id="10" object="true" symbol="CommandView"/>
+<entry field="true" id="78" symbol="CMD_SET_TIME"/>
+<entry id="8389244" symbol="deviceNumber"/>
+<entry field="true" id="56" symbol="INTERVAL_25"/>
+<entry field="true" id="84" symbol="mNotSelectedColor"/>
+<entry id="37" method="true" symbol="setMinRange"/>
+<entry id="24" symbol="mTotalGraph"/>
+<entry id="64" symbol="parseTotalHemo"/>
+<entry id="26" method="true" symbol="pickFont"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry field="true" id="80" symbol="ALIGN_BOTTOM_LEFT"/>
+<entry field="true" id="30" symbol="LauncherIcon"/>
+<entry id="60" symbol="parseEventCount"/>
+<entry id="65" symbol="parsePrevHemo"/>
+<entry id="23" symbol="mFonts"/>
+<entry id="8388634" symbol="Ant"/>
+<entry id="18" object="true" symbol="PageIndicator"/>
+<entry field="true" id="71" symbol="eventCount"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="87" method="true" symbol="setup"/>
+<entry id="8389272" symbol="searchTimeoutLowPriority"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="15" object="true" symbol="MO2Delegate"/>
+<entry field="true" id="42" symbol="DEVICE_TYPE"/>
+<entry field="true" id="74" symbol="measurementInterval"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="39" symbol="mHeadingFont"/>
+<entry id="61" symbol="parseTimeSet"/>
+<entry field="true" id="76" symbol="previousHemoPercent"/>
+<entry field="true" id="72" symbol="utcTimeSet"/>
+<entry field="true" id="70" symbol="INVALID_HEMO_PERCENT"/>
+<entry id="50" object="true" symbol="MuscleOxygenDataPage"/>
+<entry field="true" id="86" symbol="mMargin"/>
+<entry id="54" method="true" symbol="onMessage"/>
+<entry field="true" id="85" symbol="mAlignment"/>
+<entry id="25" symbol="mCurrentGraph"/>
+<entry id="8389271" symbol="radioFrequency"/>
+<entry id="8389246" symbol="transmissionType"/>
+<entry field="true" id="43" symbol="PERIOD"/>
+<entry id="14" object="true" symbol="MainView"/>
+<entry id="40" symbol="mDataFont"/>
+<entry id="8389273" symbol="searchTimeoutHighPriority"/>
+<entry id="53" method="true" symbol="setTime"/>
+<entry field="true" id="46" symbol="searching"/>
+<entry field="true" id="68" symbol="AMBIENT_LIGHT_HIGH"/>
+<entry id="34" symbol="graphRange"/>
+<entry id="28" module="true" symbol="Layouts"/>
+<entry field="true" id="81" symbol="ALIGN_TOP_RIGHT"/>
+<entry field="true" id="77" symbol="currentHemoPercent"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="8389274" symbol="searchThreshold"/>
+<entry id="35" symbol="graphMinRange"/>
+<entry id="62" symbol="parseSupportAntfs"/>
+<entry field="true" id="48" symbol="deviceCfg"/>
+<entry id="12" object="true" symbol="LineGraph"/>
+<entry id="38" symbol="mIcon"/>
+<entry field="true" id="8389092" symbol="mSize"/>
+<entry field="true" id="83" symbol="mSelectedColor"/>
+<entry id="27" module="true" symbol="Menus"/>
+<entry id="13" object="true" symbol="GraphView"/>
+<entry field="true" id="29" symbol="id_mo2Icon"/>
+<entry id="32" symbol="graphArray"/>
+<entry id="21" method="true" symbol="getDelegate"/>
+<entry field="true" id="69" symbol="INVALID_HEMO"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="67" symbol="PAGE_NUMBER"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435590" name="size" stackId="3" startPc="268435458"/>
+<entry endPc="268435590" name="selected" stackId="4" startPc="268435458"/>
+<entry endPc="268435590" name="notSelected" stackId="5" startPc="268435458"/>
+<entry endPc="268435590" name="alignment" stackId="6" startPc="268435458"/>
+<entry endPc="268436353" name="height" stackId="3" startPc="268435593"/>
+<entry endPc="268436353" name="font" stackId="5" startPc="268435593"/>
+<entry endPc="268436353" name="width" stackId="2" startPc="268435593"/>
+<entry endPc="268436353" name="margin" stackId="4" startPc="268435593"/>
+<entry endPc="268436353" name="text" stackId="6" startPc="268435593"/>
+<entry endPc="268436353" name="fWidth" stackId="7" startPc="268435593"/>
+<entry endPc="268436548" name="size" stackId="3" startPc="268436356"/>
+<entry endPc="268436548" name="selected" stackId="4" startPc="268436356"/>
+<entry endPc="268436548" name="notSelected" stackId="5" startPc="268436356"/>
+<entry endPc="268436548" name="alignment" stackId="6" startPc="268436356"/>
+<entry endPc="268438127" name="height" stackId="3" startPc="268436551"/>
+<entry endPc="268438127" name="font" stackId="9" startPc="268436551"/>
+<entry endPc="268438127" name="marginMid" stackId="5" startPc="268436551"/>
+<entry endPc="268438127" name="width" stackId="2" startPc="268436551"/>
+<entry endPc="268438127" name="marginLeft" stackId="6" startPc="268436551"/>
+<entry endPc="268438127" name="marginTop" stackId="4" startPc="268436551"/>
+<entry endPc="268438127" name="text" stackId="8" startPc="268436551"/>
+<entry endPc="268438127" name="fWidth" stackId="7" startPc="268436551"/>
+<entry endPc="268438721" name="min" stackId="5" startPc="268438613"/>
+<entry endPc="268438721" name="i" stackId="4" startPc="268438613"/>
+<entry endPc="268438837" name="max" stackId="7" startPc="268438729"/>
+<entry endPc="268438837" name="i" stackId="6" startPc="268438729"/>
+<entry endPc="268438843" name="updateMax" stackId="3" startPc="268438270"/>
+<entry endPc="268438843" name="updateMin" stackId="2" startPc="268438270"/>
+<entry endPc="268439632" name="drawExtentsY" stackId="11" startPc="268438846"/>
+<entry endPc="268439632" name="drawExtentsX" stackId="10" startPc="268438846"/>
+<entry endPc="268439632" name="draw_idx" stackId="13" startPc="268438846"/>
+<entry endPc="268439632" name="min" stackId="4" startPc="268438846"/>
+<entry endPc="268439632" name="i" stackId="12" startPc="268438846"/>
+<entry endPc="268439632" name="prev_y" stackId="8" startPc="268438846"/>
+<entry endPc="268439632" name="range" stackId="5" startPc="268438846"/>
+<entry endPc="268439632" name="prev_x" stackId="9" startPc="268438846"/>
+<entry endPc="268439632" name="string" stackId="14" startPc="268438846"/>
+<entry endPc="268439632" name="y" stackId="6" startPc="268438846"/>
+<entry endPc="268439632" name="x" stackId="7" startPc="268438846"/>
+<entry endPc="268439945" name="size" stackId="3" startPc="268439635"/>
+<entry endPc="268439945" name="selected" stackId="4" startPc="268439635"/>
+<entry endPc="268439945" name="notSelected" stackId="5" startPc="268439635"/>
+<entry endPc="268439945" name="alignment" stackId="6" startPc="268439635"/>
+<entry endPc="268441282" name="font" stackId="5" startPc="268440141"/>
+<entry endPc="268441282" name="totalString" stackId="4" startPc="268440141"/>
+<entry endPc="268441282" name="fWidth" stackId="6" startPc="268440141"/>
+<entry endPc="268442421" name="font" stackId="8" startPc="268441310"/>
+<entry endPc="268442421" name="currentString" stackId="7" startPc="268441310"/>
+<entry endPc="268442421" name="fWidth" stackId="9" startPc="268441310"/>
+<entry endPc="268442452" name="height" stackId="3" startPc="268439948"/>
+<entry endPc="268442452" name="width" stackId="2" startPc="268439948"/>
+<entry endPc="268442564" name="i" stackId="4" startPc="268442455"/>
+<entry endPc="268442742" name="size" stackId="3" startPc="268442567"/>
+<entry endPc="268442742" name="selected" stackId="4" startPc="268442567"/>
+<entry endPc="268442742" name="notSelected" stackId="5" startPc="268442567"/>
+<entry endPc="268442742" name="alignment" stackId="6" startPc="268442567"/>
+<entry endPc="268443003" name="status" stackId="6" startPc="268442893"/>
+<entry endPc="268443003" name="fWidth" stackId="7" startPc="268442893"/>
+<entry endPc="268443160" name="status" stackId="9" startPc="268443006"/>
+<entry endPc="268443160" name="deviceNumber" stackId="8" startPc="268443006"/>
+<entry endPc="268443160" name="fWidth" stackId="10" startPc="268443006"/>
+<entry endPc="268443188" name="height" stackId="3" startPc="268442745"/>
+<entry endPc="268443188" name="font" stackId="5" startPc="268442745"/>
+<entry endPc="268443188" name="width" stackId="2" startPc="268442745"/>
+<entry endPc="268443188" name="margin" stackId="4" startPc="268442745"/>
+<entry endPc="268443766" name="view" stackId="2" startPc="268443585"/>
+<entry endPc="268443806" name="delegate" stackId="2" startPc="268443769"/>
+<entry endPc="268443975" name="index" stackId="1" startPc="268443881"/>
+<entry endPc="268444410" name="result" stackId="3" startPc="268444287"/>
+<entry endPc="268444410" name="interval" stackId="2" startPc="268444287"/>
+<entry endPc="268445132" name="i" stackId="3" startPc="268445087"/>
+<entry endPc="268445194" name="message" stackId="4" startPc="268444992"/>
+<entry endPc="268445194" name="moment" stackId="2" startPc="268444992"/>
+<entry endPc="268445194" name="payload" stackId="1" startPc="268444992"/>
+<entry endPc="268445449" name="dp" stackId="3" startPc="268445278"/>
+<entry endPc="268445619" name="payload" stackId="2" startPc="268445200"/>
+<entry endPc="268446118" name="tempX" stackId="8" startPc="268446000"/>
+<entry endPc="268446131" name="i" stackId="7" startPc="268446000"/>
+<entry endPc="268446131" name="x" stackId="5" startPc="268445675"/>
+<entry endPc="268446131" name="height" stackId="3" startPc="268445675"/>
+<entry endPc="268446131" name="width" stackId="4" startPc="268445675"/>
+<entry endPc="268446131" name="y" stackId="6" startPc="268445675"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="CommandView">
+<param id="sensor"/>
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="CommandView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DataView">
+<param id="sensor"/>
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DataView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="LineGraph">
+<param id="size"/>
+<param id="minRange"/>
+<param id="color"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="setColor" parent="LineGraph">
+<param id="color"/>
+<documentation><![CDATA[<div class="description"> Set graph line color<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="setMinRange" parent="LineGraph">
+<param id="minRange"/>
+<documentation><![CDATA[<div class="description"> Set graph line color<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="addItem" parent="LineGraph">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="LineGraph">
+<param id="dc"/>
+<param id="topLeft"/>
+<param id="bottomRight"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="GraphView">
+<param id="sensor"/>
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="GraphView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="pickFont" parent="GraphView">
+<param id="dc"/>
+<param id="string"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainView">
+<param id="sensor"/>
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="MainView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MO2Delegate">
+<param id="sensor"/>
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="MO2Delegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="MO2Delegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSwipe" parent="MO2Delegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="MO2Delegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getView" parent="MO2Delegate">
+<param id="mIndex"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getDelegate" parent="MO2Delegate">
+<param id="mIndex"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="MO2DisplayApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="MO2DisplayApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="MO2DisplayApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MO2Data">
+<documentation/>
+</functionEntry>
+<functionEntry name="parse" parent="MuscleOxygenDataPage">
+<param id="payload"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="parseEventCount" parent="MuscleOxygenDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="parseTimeSet" parent="MuscleOxygenDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="parseSupportAntfs" parent="MuscleOxygenDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="parseMeasureInterval" parent="MuscleOxygenDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="parseTotalHemo" parent="MuscleOxygenDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="parsePrevHemo" parent="MuscleOxygenDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="parseCurrentHemo" parent="MuscleOxygenDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setTime" parent="CommandDataPage">
+<param id="payload"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MO2Sensor">
+<documentation/>
+</functionEntry>
+<functionEntry name="open" parent="MO2Sensor">
+<documentation/>
+</functionEntry>
+<functionEntry name="closeSensor" parent="MO2Sensor">
+<documentation/>
+</functionEntry>
+<functionEntry name="setTime" parent="MO2Sensor">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMessage" parent="MO2Sensor">
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setup" parent="PageIndicator">
+<param id="size"/>
+<param id="selectedColor"/>
+<param id="notSelectedColor"/>
+<param id="alignment"/>
+<param id="margin"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="PageIndicator">
+<param id="dc"/>
+<param id="selectedIndex"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

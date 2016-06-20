@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="30" pc="268435461" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="50" pc="268435513" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="51" pc="268435711" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="52" pc="268435719" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="53" pc="268435738" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="54" pc="268435757" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="55" pc="268435776" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="58" pc="268435795" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="60" pc="268435813" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="61" pc="268435844" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="62" pc="268435875" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="66" pc="268435925" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="67" pc="268435939" symbol="drawHand"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="74" pc="268435956" symbol="drawHashMarks"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="75" pc="268435969" symbol="drawHashMarks"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="76" pc="268435982" symbol="drawHashMarks"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="79" pc="268436051" symbol="drawHashMarks"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="81" pc="268436075" symbol="drawHashMarks"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="82" pc="268436100" symbol="drawHashMarks"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="84" pc="268436116" symbol="drawHashMarks"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="86" pc="268436312" symbol="drawHashMarks"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="93" pc="268436536" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="94" pc="268436536" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="95" pc="268436549" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="96" pc="268436566" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="97" pc="268436566" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="99" pc="268436566" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="100" pc="268436579" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="102" pc="268436592" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="103" pc="268436609" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="105" pc="268436640" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="108" pc="268436716" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="109" pc="268436752" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="111" pc="268436796" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="112" pc="268436832" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="114" pc="268437028" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="115" pc="268437064" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="116" pc="268437114" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="117" pc="268437161" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="118" pc="268437214" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="120" pc="268437264" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="122" pc="268437318" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="125" pc="268437332" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="126" pc="268437363" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="127" pc="268437379" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="128" pc="268437402" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="130" pc="268437428" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="131" pc="268437463" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="133" pc="268437489" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="134" pc="268437525" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="135" pc="268437558" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="136" pc="268437594" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/Analog/source/Analog.mc" lineNum="154" pc="268437636" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="15" symbol="id_font_black_diamond"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="9" object="true" symbol="AnalogWatch"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388641" symbol="Math"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8" object="true" symbol="Analog"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="10" method="true" symbol="drawHand"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="11" method="true" symbol="drawHashMarks"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435912" name="x" stackId="12" startPc="268435813"/>
+<entry endPc="268435912" name="y" stackId="13" startPc="268435813"/>
+<entry endPc="268435925" name="i" stackId="11" startPc="268435813"/>
+<entry endPc="268435953" name="result" stackId="6" startPc="268435513"/>
+<entry endPc="268435953" name="sin" stackId="10" startPc="268435513"/>
+<entry endPc="268435953" name="cos" stackId="9" startPc="268435513"/>
+<entry endPc="268435953" name="centerY" stackId="8" startPc="268435513"/>
+<entry endPc="268435953" name="coords" stackId="5" startPc="268435513"/>
+<entry endPc="268435953" name="centerX" stackId="7" startPc="268435513"/>
+<entry endPc="268436520" name="upperX" stackId="7" startPc="268436075"/>
+<entry endPc="268436520" name="dx" stackId="6" startPc="268436075"/>
+<entry endPc="268436533" name="i" stackId="5" startPc="268436075"/>
+<entry endPc="268436533" name="height" stackId="3" startPc="268435956"/>
+<entry endPc="268436533" name="width" stackId="2" startPc="268435956"/>
+<entry endPc="268436533" name="coords" stackId="4" startPc="268435956"/>
+<entry endPc="268437627" name="screenWidth" stackId="4" startPc="268436536"/>
+<entry endPc="268437627" name="width" stackId="2" startPc="268436536"/>
+<entry endPc="268437627" name="now" stackId="8" startPc="268436536"/>
+<entry endPc="268437627" name="info" stackId="9" startPc="268436536"/>
+<entry endPc="268437627" name="dateStr" stackId="10" startPc="268436536"/>
+<entry endPc="268437627" name="clockTime" stackId="5" startPc="268436536"/>
+<entry endPc="268437627" name="hour" stackId="6" startPc="268436536"/>
+<entry endPc="268437627" name="min" stackId="7" startPc="268436536"/>
+<entry endPc="268437627" name="height" stackId="3" startPc="268436536"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="Analog">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="Analog">
+<documentation><![CDATA[<div class="description"> Load resources<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="Analog">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="Analog">
+<documentation><![CDATA[<div class="description"> Nothing to do when going away<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawHand" parent="Analog">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<documentation><![CDATA[<div class="description"> Draw the watch hand<br/> <div class="param"> dc Device Context to Draw</div><br/> <div class="param"> angle Angle to draw the watch hand</div><br/> <div class="param"> length Length of the watch hand</div><br/> <div class="param"> width Width of the watch hand</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawHashMarks" parent="Analog">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the hash mark symbols on the watch<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="Analog">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStart" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="AnalogWatch">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

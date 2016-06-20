@@ -1,0 +1,11 @@
+<drawable-list id="clock_ticks" foreground="Gfx.COLOR_WHITE">
+    <shape type="polygon" points="[ [0, 2], [12, 12], [14, 12], [2, 2] ]" />
+    <shape type="polygon" points="[ [0, 146], [12, 136], [14, 136], [1, 147] ]" />
+    <shape type="polygon" points="[ [50, 2], [56, 12], [58, 12], [52, 2] ]" />
+    <shape type="polygon" points="[ [50, 146], [56, 136], [58, 136], [52, 146] ]" />
+
+    <shape type="polygon" points="[ [152, 2], [145, 12], [147, 12], [154, 2] ]" />
+    <shape type="polygon" points="[ [152, 146], [145, 136], [147, 136], [154, 146] ]" />
+    <shape type="polygon" points="[ [204, 2], [190, 12], [192, 12], [206, 2] ]" />
+    <shape type="polygon" points="[ [204, 146], [190, 136], [192, 136], [206, 146] ]" />
+</drawable-list>

@@ -1,0 +1,589 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+  Module: Toybox::ActivityMonitor
+  
+    &mdash; Connect IQ SDK
+  
+</title>
+
+  <link rel="stylesheet" href="../css/style.css" type="text/css" charset="utf-8" />
+
+  <link rel="stylesheet" href="../css/common.css" type="text/css" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  hasFrames = window.top.frames.main ? true : false;
+  relpath = '../';
+  framesUrl = "../frames.html#!Toybox/ActivityMonitor.html";
+</script>
+
+
+  <script type="text/javascript" charset="utf-8" src="../js/jquery.js"></script>
+
+  <script type="text/javascript" charset="utf-8" src="../js/app.js"></script>
+
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../_index.html">Index (A)</a> &raquo;
+    <span class='title'><span class='object_link'><a href="../Toybox.html" title="Toybox (module)">Toybox</a></span></span>
+     &raquo; 
+    <span class="title">ActivityMonitor</span>
+  
+
+  <div class="noframes"><span class="title">(</span><a href="." target="_top">no frames</a><span class="title">)</span></div>
+</div>
+
+      <div id="search">
+  
+    <a class="full_list_link" id="class_list_link"
+        href="../class_list.html">
+      Class List
+    </a>
+  
+    <a class="full_list_link" id="method_list_link"
+        href="../method_list.html">
+      Method List
+    </a>
+  
+    <a class="full_list_link" id="file_list_link"
+        href="../file_list.html">
+      File List
+    </a>
+  
+</div>
+      <div class="clear"></div>
+    </div>
+
+    <iframe id="search_frame"></iframe>
+
+    <div id="content"><h1>Module: Toybox::ActivityMonitor
+  
+  
+  
+</h1>
+
+<dl class="box">
+  
+  
+    
+  
+    
+  
+  
+</dl>
+<div class="clear"></div>
+
+<h2>Overview</h2><div class="docstring">
+  <div class="discussion">
+    
+<p>The ActivityMonitor module contains the interface for Activity Monitoring
+data.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div><h2>Defined Under Namespace</h2>
+<p class="children">
+  
+    
+  
+    
+      <strong class="classes">Classes:</strong> <span class='object_link'><a href="ActivityMonitor/HeartRateIterator.html" title="Toybox::ActivityMonitor::HeartRateIterator (class)">HeartRateIterator</a></span>, <span class='object_link'><a href="ActivityMonitor/HeartRateSample.html" title="Toybox::ActivityMonitor::HeartRateSample (class)">HeartRateSample</a></span>, <span class='object_link'><a href="ActivityMonitor/History.html" title="Toybox::ActivityMonitor::History (class)">History</a></span>, <span class='object_link'><a href="ActivityMonitor/Info.html" title="Toybox::ActivityMonitor::Info (class)">Info</a></span>
+    
+  
+</p>
+
+  <h2>Constant Summary</h2>
+  
+    <dl class="constants">
+      
+        <dt id="MOVE_BAR_LEVEL_MAX-constant" class="">MOVE_BAR_LEVEL_MAX = 5  <div class="docstring">
+  <div class="discussion">
+    
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+        <dt id="MOVE_BAR_LEVEL_MIN-constant" class="">MOVE_BAR_LEVEL_MIN = 0  <div class="docstring">
+  <div class="discussion">
+    
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+        <dt id="INVALID_HR_SAMPLE-constant" class="">INVALID_HR_SAMPLE = 255  <div class="docstring">
+  <div class="discussion">
+    
+<p>Indicates that the given heart rate sample is invalid.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.2.2</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Supported Devices:</p>
+<ul class="supported">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>fr235</p>
+</div>
+      
+    </li>
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>fenix 3 HR</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+        </dt>
+      
+    </dl>
+  
+
+
+
+
+
+
+
+  
+    <h2>
+      Instance Method Summary
+      <small>(<a href="#" class="summary_toggle">collapse</a>)</small>
+    </h2>
+
+    <ul class="summary">
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#getHeartRateHistory-instance_method" title="#getHeartRateHistory (instance method)">- (ActivityMonitor.HeartRateIterator) <strong>getHeartRateHistory</strong>(period, newestFirst) </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Retrieve the heart rate history for the given period, up to the last power
+cycle.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#getHistory-instance_method" title="#getHistory (instance method)">- (Array) <strong>getHistory</strong> </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use getHistory() to retrieve an array of ActivityMonitor.History objects.</p>
+</div></span>
+  
+</li>
+
+      
+        <li class="public ">
+  <span class="summary_signature">
+    
+      <a href="#getInfo-instance_method" title="#getInfo (instance method)">- (ActivityMonitor.Info) <strong>getInfo</strong> </a>
+    
+
+    
+  </span>
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <span class="summary_desc"><div class='inline'>
+<p>Use getInfo() to retrieve the current ActivityMonitor.Info.</p>
+</div></span>
+  
+</li>
+
+      
+    </ul>
+  
+
+
+
+  <div id="instance_method_details" class="method_details_list">
+    <h2>Instance Method Details</h2>
+
+    
+      <div class="method_details first">
+  <h3 class="signature first" id="getHeartRateHistory-instance_method">
+  
+    - (<tt><span class='object_link'><a href="" title="Toybox::ActivityMonitor (module)">ActivityMonitor</a></span>.<span class='object_link'><a href="ActivityMonitor/HeartRateIterator.html" title="Toybox::ActivityMonitor::HeartRateIterator (class)">HeartRateIterator</a></span></tt>) <strong>getHeartRateHistory</strong>(period, newestFirst) 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Retrieve the heart rate history for the given period, up to the last power
+cycle. This function always returns the most recent heart rate samples. The
+time between each HeartRateSample in the iterator may be device dependent.</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  <p class="tag_title">Parameters:</p>
+<ul class="param">
+  
+    <li>
+      
+        <span class='name'>period</span>
+      
+      
+        <span class='type'></span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>If period is null, the entire available history is retrieved. If period is
+a Duration, then the history for the given Duration is retrieved. If period
+is a Number, then the last Number entries are retrieved.</p>
+</div>
+      
+    </li>
+  
+    <li>
+      
+        <span class='name'>newestFirst</span>
+      
+      
+        <span class='type'></span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>true to get the samples newest first, false to get them oldest first</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::ActivityMonitor (module)">ActivityMonitor</a></span>.<span class='object_link'><a href="ActivityMonitor/HeartRateIterator.html" title="Toybox::ActivityMonitor::HeartRateIterator (class)">HeartRateIterator</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>an iterator for the heart rate history for the given period</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.2.1</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Supported Devices:</p>
+<ul class="supported">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>fr235</p>
+</div>
+      
+    </li>
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>fenix 3 HR</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="getHistory-instance_method">
+  
+    - (<tt>Array</tt>) <strong>getHistory</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use getHistory() to retrieve an array of ActivityMonitor.History objects</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt>Array</tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>of ActivityMonitor.History objects.</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+      <div class="method_details ">
+  <h3 class="signature " id="getInfo-instance_method">
+  
+    - (<tt><span class='object_link'><a href="" title="Toybox::ActivityMonitor (module)">ActivityMonitor</a></span>.<span class='object_link'><a href="ActivityMonitor/Info.html" title="Toybox::ActivityMonitor::Info (class)">Info</a></span></tt>) <strong>getInfo</strong> 
+  
+
+  
+
+  
+</h3><div class="docstring">
+  <div class="discussion">
+    
+<p>Use getInfo() to retrieve the current ActivityMonitor.Info</p>
+
+
+  </div>
+</div>
+<div class="tags">
+  
+<p class="tag_title">Returns:</p>
+<ul class="return">
+  
+    <li>
+      
+      
+        <span class='type'>(<tt><span class='object_link'><a href="" title="Toybox::ActivityMonitor (module)">ActivityMonitor</a></span>.<span class='object_link'><a href="ActivityMonitor/Info.html" title="Toybox::ActivityMonitor::Info (class)">Info</a></span></tt>)</span>
+      
+      
+      
+        &mdash;
+        <div class='inline'>
+<p>object with current information.</p>
+</div>
+      
+    </li>
+  
+</ul>
+<p class="tag_title">Since:</p>
+<ul class="since">
+  
+    <li>
+      
+      
+      
+      
+        
+        <div class='inline'>
+<p>1.0.0</p>
+</div>
+      
+    </li>
+  
+</ul>
+
+</div>
+</div>
+    
+  </div>
+
+</div>
+
+    <div id="footer">
+  Generated on Wed Mar  9 15:48:17 2016 by
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool" target="_parent">yard</a>
+  0.8.7.6 (ruby-2.0.0).
+</div>
+
+  </body>
+</html>

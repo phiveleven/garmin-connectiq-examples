@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Connect IQ User Experience Guide</title>
+	<meta name="author" content="Garmin International"/>
+	<meta name="date" content="September 11, 2015"/>
+	<link type="text/css" rel="stylesheet" href="resources/ux-guide/style.css"/>
+	<meta name="copyright" content="Connect IQ User Experience Guide version 1.1.3, Copyright 2015 Garmin, International."/>
+</head>
+<body>
+
+<div id="connect_iq_logo">
+<figure>
+<img src="resources/ux-guide/connect_iq_logo.png" max-width="471" title="Powered by Garmin" />
+</figure>
+</div>
+<div id="title">User Experience Guide</div>
+<div class="clear"></div>
+
+<h1 id="tableofcontents">Table of Contents</h1>
+<div id="toc">
+
+<ul>
+<li><a href="#tableofcontents">Table of Contents</a></li>
+<li><a href="#designingforconnectiq">Designing For Connect IQ</a>
+
+<ul>
+<li><a href="#thinkingwearable">Thinking Wearable</a></li>
+</ul></li>
+<li><a href="#designforapptypes">Design For App Types</a>
+
+<ul>
+<li><a href="#watchapps">Watch Apps</a></li>
+<li><a href="#widgets">Widgets</a></li>
+<li><a href="#datafields">Data Fields</a></li>
+<li><a href="#watchfaces">Watch Faces</a></li>
+</ul></li>
+<li><a href="#pagelayout">Page Layout</a>
+
+<ul>
+<li><a href="#textfontsversusnumberfonts">Text Fonts Versus Number Fonts</a></li>
+<li><a href="#typeface">Typeface</a></li>
+<li><a href="#userfonts">User Fonts</a></li>
+<li><a href="#bitmaps">Bitmaps</a></li>
+<li><a href="#pagelayouts">Page Layouts</a></li>
+</ul></li>
+<li><a href="#userinteraction">User Interaction</a>
+
+<ul>
+<li><a href="#behaviors">Behaviors</a></li>
+<li><a href="#built-indialogs">Built-in Dialogs</a></li>
+<li><a href="#notifications">Notifications</a></li>
+</ul></li>
+<li><a href="#appendixadevices">Appendix A: Devices</a></li>
+<li><a href="#appendixbfontspecifications">Appendix B: Font Specifications</a>
+
+<ul>
+<li><a href="#viacutevoactive">v&iacute;voactive</a>
+
+<ul>
+<li><a href="#textfonts">Text Fonts</a></li>
+<li><a href="#numberfonts">Number Fonts</a></li>
+</ul></li>
+<li><a href="#femacrnix3andd2bravo">f&emacr;nix 3 and D2 Bravo</a>
+
+<ul>
+<li><a href="#textfonts-1">Text Fonts</a></li>
+<li><a href="#numberfonts-1">Number Fonts</a></li>
+</ul></li>
+<li><a href="#epix">epix</a>
+
+<ul>
+<li><a href="#textfonts-2">Text Fonts</a></li>
+<li><a href="#numberfonts-2">Number Fonts</a></li>
+</ul></li>
+<li><a href="#forerunner920xt">Forerunner 920XT</a>
+
+<ul>
+<li><a href="#textfonts-3">Text Fonts</a></li>
+<li><a href="#numberfonts-3">Number Fonts</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+
+<h1 id="designingforconnectiq">Designing For Connect IQ</h1>
+
+<p>The Connect IQ system allows third party developers to bring their design and experience to Garmin products. Your ideas and content are what will power the wearable revolution! This document will go over some of the guidelines of designing an app for a Garmin wearable device.</p>
+
+<h2 id="thinkingwearable">Thinking Wearable</h2>
+
+<p>The KISS principal<a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a> is one of the best rules of thumb when making a wearable app. One of the synonyms of the word &#8220;watch&#8221; is &#8220;to observe&#8221;. When designing smart watch apps, it is best to keep in mind that watches are best when used to observe. Great wearable apps stay out of the user&#8217;s way, and keep the interactions to a minimum. Give the user fast access to the information and key interactions they care about. Garmin devices have access to a number of different sensors, including GPS, compass, accelerometer, barometer, as well as the ANT+ network. Let the user see information about themselves in interesting ways.</p>
+
+<h1 id="designforapptypes">Design For App Types</h1>
+
+<p>The Connect IQ app types are based on the use case of the app. Watch apps have full control of the device. Widgets provide glanceable information to the user. Data fields allow customization of the Garmin activities. Watch faces provide custom displays for the home screen of the watch.</p>
+
+<p>In this section we will delve into the specific guidelines for each use case.</p>
+
+<h2 id="watchapps">Watch Apps</h2>
+
+<p>Watch apps are by far the most robust type of app available. These allow the most flexibility and customization to the app designer. They also provide the most access to the capabilities of the wearable device, such as accessing ANT+ sensors, the accelerometer and reading/recording FIT files.</p>
+
+<p>The suite of Garmin wearables are each designed to fulfill different needs and behaviors of active individuals, from endurance runners to triathletes to outdoor enthusiasts and adventurers. The core focus of these wearables centers on the recording and tracking of activities, from running to hiking to skiing. Users of the different Garmin wearables desire to track specific types of data and great care should be taken in designing your watch app to understand the needs of the user doing a particular activity or task and provide appropriate feedback, metrics and configurability to give the user the best experience.</p>
+
+<p>The initial view of the app should be a call to action. If your app represents some form of activity like hiking or weight lifting, the initial view of the app should ask to be started. Present the user with information from the sensors that make them want to hit the start button.</p>
+
+<p>Garmin commonly uses page loops to present multiple pages of information. Page loops are a carousel of pages, each one a unique view on the activity. This is a common metaphor in Garmin products and easy to implement in Connect IQ.</p>
+
+<p>When your app is presenting large amounts of text to the user, try to keep information in the center of the screen. On round screens the top and bottom of the screen provide a limited viewing area. Use the top for contextual headers, scroll arrows, and other small hints of information.</p>
+
+<h2 id="widgets">Widgets</h2>
+
+<p>Widgets provide glanceable and relevant information accessible from the watch face. The most important element of the widget is the main page. This is what the user will see upon navigating to your widget; for the best experience this main page should provide relevant, timely and easily digestible information to the user.</p>
+
+<p>The base view of a widget should be a presentation of critical information. Put key information the user will care about on the main page. The main page should only handle the launch widget behavior and the menu behavior. If the user performs the launch widget behavior, you can push a page that presents deeper information.</p>
+
+<p>Your widget should load and unload quickly. Widgets are presented to the user as a carousel, and they may be starting your widget only to get to the next one. If your widget takes too long to load or unload, users will remove it from the watch and punish your app with a one star review.</p>
+<figure>
+<img src="resources/ux-guide/page_loop.png" style="max-width:584px;" alt="An illustration of the widget page loop" title="The widget page loop" />
+<figcaption>An illustration of the widget page loop</figcaption>
+</figure>
+
+<p>Because widgets are intended to be glanceable and live in a page loop, behaviors available from the main page are limited. Widgets can open a menu, and on products with touch screens, widgets can provide controls from the main page such as play and pause controls provided in a music player widget. To provide interaction on non-touch products or to provide more views or content in your widget, it must be launched or entered to interact with it. If interaction is desired, widgets should either provide controls from the widget page or should be enterable, but these two widget interactions should not be combined.</p>
+
+<p>If more actions or configurability need to be supported, the widget can open a menu at any time when it is in view. Once entered, interactive widgets can be structured in a page-based manner, similar to watch apps, or hierarchically. Once a widget is opened, a back behavior must be provided to return the user to the main widget face.</p>
+
+<h2 id="datafields">Data Fields</h2>
+
+<p>Data fields can run inside an already supported activity on the device and are a great way to provide new metrics to users by performing calculations on data already being recorded. Because data fields are integrated in with existing activities, it is best if they appear in the same font and format as that used for the native data fields. For that reason, the simple layout is best as it will ensure your data field will have the same native look and will scale appropriately to all data screen layouts. If you would like to customize your data field, for example, by inserting a bitmap in place of a numerical value, you will need to ensure that your custom field will scale appropriately from a one field, two field, three field, etc. layout.</p>
+
+<p>Use a SimpleDataField when possible to guarantee your data field will have the native look and feel of the other Garmin Data Fields. Connect IQ will try to ensure your data displays with the best font and layout possible.</p>
+
+<h2 id="watchfaces">Watch Faces</h2>
+
+<p>Watch faces run continuously on the device and can have the most effect on power consumption. A poorly designed watch face &mdash; one that takes too long to draw &mdash; can greatly degrade the battery life of the wearable.</p>
+
+<p>Because of power concerns, watch faces have the least access to APIs in the system. They have access to graphics, bitmaps, fonts, current activity tracker status, current battery status, and the user’s activity profile. They cannot access the compass, GPS, or other sensors.</p>
+
+<p>Watch faces should extend the <code>WatchFace</code> class in <code>Toybox::WatchUi</code>. Watch faces update at once a minute in low power mode, or once a second when in full power mode. The watch will transition out of low power mode when the user gestures to look at it. When entering full power mode, watch faces call <code>onExitSleep()</code>, which can be used to trigger animations and timers. The <code>onEnterSleep()</code> method is called when entering low power mode and is used to terminate any active timers. Both of these methods are inherited from <code>Toybox.WatchUi.WatchFace</code>.</p>
+
+<p>If you use custom fonts for numeric display, use the filter option to only load the critical glyphs. This will save memory that you can use for additional graphics</p>
+
+<h1 id="pagelayout">Page Layout</h1>
+
+<p>Garmin makes purpose driven products, and the technologies of the product are chosen around the use case the product is intended. Making purpose driven products also influences the decisions of the screen technologies and fonts we choose for our products.</p>
+
+<h2 id="textfontsversusnumberfonts">Text Fonts Versus Number Fonts</h2>
+
+<p>Garmin devices have two kinds of fonts available &mdash; text fonts and number fonts<a href="#fn:2" id="fnref:2" title="see footnote" class="footnote">[2]</a>. Text fonts are for displaying text and numbers and come in three sizes:</p>
+
+<ol>
+<li><strong>Small</strong> – chosen to be the smallest readable font on the display</li>
+<li><strong>Medium</strong> – larger than small; chosen to efficiently display text</li>
+<li><strong>Large</strong> – larger than medium; typically used for headers</li>
+</ol>
+
+<p>The number font is a larger size font that can only display number data. It has four sizes<a href="#fn:2" title="see footnote" class="footnote">[2]</a>:</p>
+
+<ol>
+<li><strong>Mild</strong> – approximately one quarter screen display of numeric data</li>
+<li><strong>Medium</strong> – approximately one third screen display of numeric data</li>
+<li><strong>Hot</strong> – approximately one half screen display of numeric data</li>
+<li><strong>Thai Hot</strong> – covers most of the screen<a href="#fn:3" id="fnref:3" title="see footnote" class="footnote">[3]</a></li>
+</ol>
+
+<h2 id="typeface">Typeface</h2>
+
+<p>With the exception of the Forerunner 920xt<a href="#fn:4" id="fnref:4" title="see footnote" class="footnote">[4]</a>, the text font for Connect IQ devices will be the Roboto Regular typeface. The number font will be chosen for the product based on the use case of the product.</p>
+
+<h2 id="userfonts">User Fonts</h2>
+
+<p>Garmin tries to provide the best looking fonts for the device. Using the <a href="http://www.angelcode.com/products/bmfont/" title="Download the BMFont Tool">BMFont tool</a>, you can import your own typeface into the product. Using the <a href="http://www.angelcode.com/products/bmfont/" title="Download the BMFont Tool">BMFont tool</a>, you can import truetype font into a font usable by Connect IQ. There are some guidelines to follow:</p>
+
+<ol>
+<li>Try to use the system fonts when possible, but use custom fonts for accent.</li>
+<li>Large typefaces can take up quite a bit of limited resources. If you only need a typeface for a logo, it might be preferable to use a bitmap instead.</li>
+<li>If your font is limited to a set of characters you can use a filter when importing the font. This will save memory by not importing glyphs your application doesn’t use. For example, if you want to have your own custom large number font, you can use the resource compiler to only include digits and necessary characters like colons<a href="#fn:5" id="fnref:5" title="see footnote" class="footnote">[5]</a>.</li>
+</ol>
+
+<h2 id="bitmaps">Bitmaps</h2>
+
+<p>Garmin wearable products use displays that do not require a backlight. These displays use much less power than traditional cell phone displays, but will look muted compared to a cell phone display. The displays have two bits of red, green, and blue; a potential for 64 colors total.</p>
+
+<p>Different wearable products can have different color depths. The least number of colors a product will have is 16. The RGB values of the available colors on the 16 color products are as follows:</p>
+
+<pre><code class="java">COLOR_WHITE     = 0xFFFFFF      //! White
+COLOR_LT_GRAY   = 0xAAAAAA      //! Light Gray
+COLOR_DK_GRAY   = 0x555555      //! Dark Gray
+COLOR_BLACK     = 0x000000      //! Black
+COLOR_RED       = 0xFF0000      //! Red
+COLOR_DK_RED    = 0xAA0000      //! Dark Red
+COLOR_ORANGE    = 0xFF5500      //! Orange
+COLOR_YELLOW    = 0xFFAA00      //! Yellow
+COLOR_GREEN     = 0x00FF00      //! Green
+COLOR_DK_GREEN  = 0x00AA00      //! Dark Green
+COLOR_BLUE      = 0x00AAFF      //! Blue
+COLOR_DK_BLUE   = 0x0000FF      //! Dark Blue
+COLOR_PURPLE    = 0xAA00FF      //! Purple
+COLOR_PINK      = 0xFF00FF      //! Pink
+</code></pre>
+
+<p>Using these colors for your bitmaps will make your app the most portable. Try to use low bit-depth images when possible. More colors will use more memory, while one bit silhouettes can make for colorful user interfaces and saves memory for your application.</p>
+
+<h2 id="pagelayouts">Page Layouts</h2>
+
+<p>Garmin makes products with many screen shapes. When designing your product, take full advantage of the layout system in the resource compiler and the simulator to test your layout. The resource compiler allows you to specify your page layout in XML and have it target a particular device. See the Monkey C Programmer’s Guide for more details about the layout system.</p>
+<figure>
+<img src="resources/ux-guide/screen_sizes.png" style="max-width:557px;" alt="A sample of possible device screen sizes" title="Possible device screen shapes" />
+<figcaption>A sample of device screen shapes</figcaption>
+</figure>
+<figure>
+<img src="resources/ux-guide/shapes_on_wrist.png" style="max-width:514px;" alt="Example of screen shapes on a person's wrist" title="Device screens on the wrist" />
+<figcaption>Example of screen shapes on a person&#8217;s wrist</figcaption>
+</figure>
+
+<p>Some, but not all, Garmin wearable products will have a touch screen. When designing a layout for a touchable screen, it is best to apply a rule of thirds: break the display up into a 3 x 3 grid and put your touchable elements clearly inside one of those grid areas. Using this rule ensure the user has enough finger space to select the touchable element<a href="#fn:6" id="fnref:6" title="see footnote" class="footnote">[6]</a>. It&#8217;s also a good idea to keep the user interaction to a one dimensional interface – up, down, enter, and back.</p>
+<figure>
+<figcaptionThe 3x3 grid on touch screen devices></figcaption>
+<img src="resources/ux-guide/touch_areas.png" style="max-width:206px;" alt="The 3x3 grid on touch screen devices" title="A 3x3 touch screen" />
+<figcaption>The 3x3 grid on touch screen devices</figcaption>
+</figure>
+
+<h1 id="userinteraction">User Interaction</h1>
+
+<p>Remember what was said earlier about limiting the amount of user input because a wearable app is a beautiful flower that should be seen and not heard, yadda, yadda, yadda?<a href="#fn:7" id="fnref:7" title="see footnote" class="footnote">[7]</a> Clearly at some point the user has to interact with the app. Here are some rules for designing user interaction.</p>
+
+<h2 id="behaviors">Behaviors</h2>
+
+<p>Though the products have different styles of input, there are a number of common user behaviors between them. By working these behaviors into your design, you can make it much easier to port your product between different devices.</p>
+
+<dl>
+<dt><strong>Next/Previous Page</strong></dt>
+<dd>Many of the Garmin activities are made up of page loops &mdash; information for the user spread across a carousel of pages. The next and previous behavior informs you that the user wants to go to the next or previous page.</dd>
+
+<dt>Menu</dt>
+<dd>The user wants to see a context specific menu.</dd>
+
+<dt>Enter</dt>
+<dd>The user wants to select a highlighted item.</dd>
+
+<dt>Start/Stop</dt>
+<dd>The start/stop button is used to begin timing/recording of an activity of some sort.</dd>
+
+<dt>Back/Lap</dt>
+<dd>The user wants to back out of a page on the page loop. This is often multiplexed with the lap key, which is used to allow the user to demark a marker in their workout.</dd>
+
+<dt>Enter Widget</dt>
+<dd>This is a new behavior specific to the widget app type.</dd>
+</dl>
+
+<h2 id="built-indialogs">Built-in Dialogs</h2>
+
+<p>Connect IQ provides some basic Garmin dialogs for item selection, numeric entry, and confirmation. Using these widgets for basic operations will make it much easier to port your application across Garmin devices.</p>
+
+<dl>
+<dt>Menu</dt>
+<dd>Menus let you present a list of items for the user to select from. They can be nested (a menu can launch another menu) for selection based flows. You can also use the resource compiler to define them. See the programmer’s guide for details.</dd>
+
+<dt>Generic Picker</dt>
+<dd>The generic picker provides applications with the ability to create onscreen lists of user-selectable objects. These objects can be numbers, strings, and even images, which allows a lot of flexibility in app design.</dd>
+
+<dt>Number Picker</dt>
+<dd>The number picker provides a UI for picking from a number of numeric value types. It provides an up/down/enter interface for selecting numeric values.</dd>
+
+<dt>Confirmation Dialog</dt>
+<dd>The confirmation dialog provides a simple yes/no dialog. This is useful when presenting a simple selection.</dd>
+
+<dt>Progress Dialog</dt>
+<dd>The progress dialog gives a standard wait dialog. It has two modes&mdash;one for progress where progress is measurable, the other is for showing a busyness without attaching a specific progress to it.</dd>
+</dl>
+
+<h2 id="notifications">Notifications</h2>
+
+<p>If your application is monitoring sensor data, you may need to present the user with information about what you are monitoring.</p>
+
+<p>If the notification to be presented is pertinent to the activity, present the information full screen. For example, if the user earns a badge in your game, this should be presented as a full screen page that times out back into your page flow.</p>
+
+<h1 id="appendixa:devices">Appendix A: Devices</h1>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Device</th>
+	<th style="text-align:left;">Resolution (px)</th>
+	<th style="text-align:left;">Icon Resolution</th>
+	<th style="text-align:left;">Colors</th>
+	<th style="text-align:left;">Physical Buttons</th>
+	<th style="text-align:left;">Screen Type</th>
+	<th style="text-align:left;">Touch Screen</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><strong>D2 Bravo</strong></td>
+	<td style="text-align:left;">218 x 218</td>
+	<td style="text-align:left;">40 x 40</td>
+	<td style="text-align:left;">16</td>
+	<td style="text-align:left;">up, down, enter, back, menu</td>
+	<td style="text-align:left;">round</td>
+	<td style="text-align:left;">No</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>Edge 520</strong></td>
+	<td style="text-align:left;">200 x 265</td>
+	<td style="text-align:left;">35 x 35</td>
+	<td style="text-align:left;">65536</td>
+	<td style="text-align:left;">up, down, enter, back, start, lap</td>
+	<td style="text-align:left;">rectangle</td>
+	<td style="text-align:left;">No</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>Edge 1000</strong></td>
+	<td style="text-align:left;">240 x 400</td>
+	<td style="text-align:left;">36 x 36</td>
+	<td style="text-align:left;">65536</td>
+	<td style="text-align:left;">start, lap</td>
+	<td style="text-align:left;">rectangle</td>
+	<td style="text-align:left;">Yes</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>Edge 1000 Explore</strong></td>
+	<td style="text-align:left;">240 x 400</td>
+	<td style="text-align:left;">36 x 36</td>
+	<td style="text-align:left;">65536</td>
+	<td style="text-align:left;">start, lap</td>
+	<td style="text-align:left;">rectangle</td>
+	<td style="text-align:left;">Yes</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>epix</strong></td>
+	<td style="text-align:left;">205 x 148</td>
+	<td style="text-align:left;">40 x 40</td>
+	<td style="text-align:left;">64</td>
+	<td style="text-align:left;">up, down, enter, back, menu</td>
+	<td style="text-align:left;">rectangle</td>
+	<td style="text-align:left;">Yes</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>f&emacr;nix 3</strong></td>
+	<td style="text-align:left;">218 x 218</td>
+	<td style="text-align:left;">40 x 40</td>
+	<td style="text-align:left;">16</td>
+	<td style="text-align:left;">up, down, enter, back, menu</td>
+	<td style="text-align:left;">round</td>
+	<td style="text-align:left;">No</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>Forerunner 230</strong></td>
+	<td style="text-align:left;">215 x 180</td>
+	<td style="text-align:left;">40 x 40</td>
+	<td style="text-align:left;">16</td>
+	<td style="text-align:left;">up, down, enter, back, menu</td>
+	<td style="text-align:left;">semi-round</td>
+	<td style="text-align:left;">No</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>Forerunner 235</strong></td>
+	<td style="text-align:left;">215 x 180</td>
+	<td style="text-align:left;">40 x 40</td>
+	<td style="text-align:left;">16</td>
+	<td style="text-align:left;">up, down, enter, back, menu</td>
+	<td style="text-align:left;">semi-round</td>
+	<td style="text-align:left;">No</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>Forerunner 630</strong></td>
+	<td style="text-align:left;">215 x 180</td>
+	<td style="text-align:left;">40 x 40</td>
+	<td style="text-align:left;">16</td>
+	<td style="text-align:left;">back, menu, start, lap</td>
+	<td style="text-align:left;">semi-round</td>
+	<td style="text-align:left;">Yes</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>Forerunner 920XT</strong></td>
+	<td style="text-align:left;">205 x 148</td>
+	<td style="text-align:left;">65 x 65</td>
+	<td style="text-align:left;">16</td>
+	<td style="text-align:left;">up, down, enter, back, menu</td>
+	<td style="text-align:left;">rectangle</td>
+	<td style="text-align:left;">No</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><strong>v&iacute;voactive</strong></td>
+	<td style="text-align:left;">205 x 148</td>
+	<td style="text-align:left;">61 x 43</td>
+	<td style="text-align:left;">64</td>
+	<td style="text-align:left;">enter, back, menu</td>
+	<td style="text-align:left;">rectangle</td>
+	<td style="text-align:left;">Yes</td>
+</tr>
+</tbody>
+</table>
+
+<h1 id="appendixb:fontspecifications">Appendix B: Font Specifications</h1>
+<div id="appendix_b">
+
+<h2 id="viacutevoactive">v&iacute;voactive</h2>
+
+<h3 id="textfonts">Text Fonts</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Constant Name</th>
+	<th style="text-align:left;">Font Name</th>
+	<th style="text-align:left;">Font Size</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><code>FONT_XTINY</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_TINY</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_SMALL</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_MEDIUM</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">17</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_LARGE</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">20</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Available Characters:</strong></p>
+
+<p><em>Roman, Cyrillic, Greek, and expanded diacritics</em></p>
+<figure>
+<img src="resources/ux-guide/vva-glyphs.png" style="max-width:544px;" title="All available glyphs on v&iacute;voactive" />
+</figure>
+
+<h3 id="numberfonts">Number Fonts</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Constant Name</th>
+	<th style="text-align:left;">Font Name</th>
+	<th style="text-align:left;">Font Size</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_MILD</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">20</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_MEDIUM</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">32</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_HOT</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">38</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_THAI_HOT</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">62</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Available Characters:</strong></p>
+
+<pre><code>%-./0123456789:_°AP
+</code></pre>
+
+<h2 id="femacrnix3andd2bravo">f&emacr;nix 3 and D2 Bravo</h2>
+
+<h3 id="textfonts">Text Fonts</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Constant Name</th>
+	<th style="text-align:left;">Font Name</th>
+	<th style="text-align:left;">Font Size</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><code>FONT_XTINY</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">12 Bold</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_TINY</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">12 Bold</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_SMALL</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">17</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_MEDIUM</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">19</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_LARGE</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">24 Bold</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Available Characters:</strong></p>
+
+<p><em>Roman, Cyrillic, Greek, and standard diacritics</em></p>
+<figure>
+<img src="resources/ux-guide/fenix3-glyphs.png" style="max-width:541px;" title="All available glyphs on f&emacr;nix 3" / >
+</figure>
+
+<h3 id="numberfonts">Number Fonts</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Constant Name</th>
+	<th style="text-align:left;">Font Name</th>
+	<th style="text-align:left;">Font Size</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_MILD</code></td>
+	<td style="text-align:left;">Steelfish</td>
+	<td style="text-align:left;">22</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_MEDIUM</code></td>
+	<td style="text-align:left;">Steelfish</td>
+	<td style="text-align:left;">40</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_HOT</code></td>
+	<td style="text-align:left;">Steelfish</td>
+	<td style="text-align:left;">54</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_THAI_HOT</code></td>
+	<td style="text-align:left;">Steelfish</td>
+	<td style="text-align:left;">75</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Available Characters:</strong></p>
+
+<p><code>FONT_NUMBER_MILD:</code></p>
+
+<pre><code>%'-./0123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz_°ÉØ
+</code></pre>
+
+<p><code>FONT_NUMBER_MEDIUM, FONT_NUMBER_HOT, FONT_NUMBER_THAI_HOT:</code></p>
+
+<pre><code>%-./0123456789:abcdefghijklmnopqrstuvwxyz
+</code></pre>
+
+<h2 id="epix">epix</h2>
+
+<h3 id="textfonts">Text Fonts</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Constant Name</th>
+	<th style="text-align:left;">Font Name</th>
+	<th style="text-align:left;">Font Size</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><code>FONT_XTINY</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_TINY</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_SMALL</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_MEDIUM</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">17</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_LARGE</code></td>
+	<td style="text-align:left;">Roboto</td>
+	<td style="text-align:left;">20</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Available Characters:</strong></p>
+
+<pre><code>!&quot;#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz[\]^_`{|}~ ¡¢£¤¥¦§¨©ª«¬¬®¯°±²³´µ¶•¸¹º»¼½¾¿
+ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö
+÷øùúûüýþÿŒœŠšŸŽžƒˆ˜–—‘’‚“”„†‡•…‰‹›€?™
+</code></pre>
+
+<h3 id="numberfonts">Number Fonts</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Constant Name</th>
+	<th style="text-align:left;">Font Name</th>
+	<th style="text-align:left;">Font Size</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_MILD</code></td>
+	<td style="text-align:left;">Black Diamond</td>
+	<td style="text-align:left;">20</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_MEDIUM</code></td>
+	<td style="text-align:left;">Black Diamond</td>
+	<td style="text-align:left;">32</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_HOT</code></td>
+	<td style="text-align:left;">Black Diamond</td>
+	<td style="text-align:left;">38</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_THAI_HOT</code></td>
+	<td style="text-align:left;">Black Diamond</td>
+	<td style="text-align:left;">62</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Available Characters:</strong></p>
+
+<pre><code>%-.0123456789:_°
+</code></pre>
+
+<h2 id="forerunner920xt">Forerunner 920XT</h2>
+
+<h3 id="textfonts">Text Fonts</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Constant Name</th>
+	<th style="text-align:left;">Font Name</th>
+	<th style="text-align:left;">Font Size</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><code>FONT_XTINY</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_TINY</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_SMALL</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">12</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_MEDIUM</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">17</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_LARGE</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">20</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Available Characters:</strong></p>
+
+<pre><code>!&quot;#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz[\\]^_`{|}~ ¡¢£¤¥¦§¨©ª«¬¬®¯°±²³´µ¶•¸¹º»¼½¾¿
+ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö
+÷øùúûüýþÿŒœŠšŸŽžƒˆ˜–—‘’‚“”„†‡•…‰‹›€?™
+</code></pre>
+
+<h3 id="numberfonts">Number Fonts</h3>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Constant Name</th>
+	<th style="text-align:left;">Font Name</th>
+	<th style="text-align:left;">Font Size</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_MILD</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">20</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_MEDIUM</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">32</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_HOT</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">38</td>
+</tr>
+<tr>
+	<td style="text-align:left;"><code>FONT_NUMBER_THAI_HOT</code></td>
+	<td style="text-align:left;">Digi</td>
+	<td style="text-align:left;">62</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Available Characters:</strong></p>
+
+<p><code>FONT_NUMBER_MILD:</code></p>
+
+<pre><code>!#%()+,-./0123456789;&lt;&gt;?ENSW[\]_
+</code></pre>
+
+<p><code>FONT_NUMBER_MEDIUM, FONT_NUMBER_HOT, FONT_NUMBER_THAI_HOT:</code></p>
+
+<pre><code>!&quot;#%&amp;'()*+,-./0123456789;&lt;&gt;?NSEW^_
+</code></pre>
+</div>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:1">
+<p>Keep It Simple Stupid. Also accepted: &#8220;Kiss the fuzzy monkey who wuvs you so much&#8221; <a href="#fnref:1" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li id="fn:2">
+<p>Font size descriptions are approximate and my vary depending on the device. See Appendix B for font specifications. <a href="#fnref:2" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li id="fn:3">
+<p>Also, this font burns my tongue. Who am I kidding, the medium font burns my tongue. <a href="#fnref:3" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li id="fn:4">
+<p>Don&#8217;t ask; it’s a long story involving release dates and, surprisingly, Yetis. <a href="#fnref:4" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li id="fn:5">
+<p>Fonts over 40 years old should have their colons checked every year by professionals. <a href="#fnref:5" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li id="fn:6">
+<p>Certain products use a 3x3 touch screen that only has nine touchable areas, so consider it less than a guideline and more of a &#8220;do this or else.&#8221; <a href="#fnref:6" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+<li id="fn:7">
+<p>Even I get tired of hearing me talk. I don&#8217;t know how you can take it. <a href="#fnref:7" title="return to article" class="reversefootnote">&#160;&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+</body>
+</html>

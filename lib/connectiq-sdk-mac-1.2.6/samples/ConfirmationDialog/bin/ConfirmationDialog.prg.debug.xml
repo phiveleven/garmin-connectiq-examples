@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogApp.mc" lineNum="23" pc="268435464" symbol="getInitialView"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="18" pc="268435535" symbol="onResponse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="19" pc="268435546" symbol="onResponse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="22" pc="268435562" symbol="onResponse"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="32" pc="268435579" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="33" pc="268435621" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="34" pc="268435679" symbol="onMenu"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="45" pc="268435689" symbol="onLayout"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="54" pc="268435709" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="55" pc="268435745" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="56" pc="268435757" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="57" pc="268435793" symbol="onUpdate"/>
+<entry filename="/Users/charpentier/garmin/git/toolchain/release/samples/ConfirmationDialog/source/ConfirmationDialogView.mc" lineNum="58" pc="268435877" symbol="onUpdate"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="14" module="true" symbol="Menus"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry id="8389108" method="true" symbol="onResponse"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="12" object="true" symbol="BaseInputDelegate"/>
+<entry field="true" id="10" symbol="returnVal"/>
+<entry id="11" object="true" symbol="CD"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8" object="true" symbol="ConfirmationDialogApp"/>
+<entry id="13" object="true" symbol="ConfirmationDialogView"/>
+<entry field="true" id="9" symbol="testString"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="18" symbol="cd"/>
+<entry id="8388640" symbol="Lang"/>
+</symbolTable>
+<localVars/>
+<annotations/>
+<functions>
+<functionEntry name="onStart" parent="ConfirmationDialogApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="ConfirmationDialogApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="ConfirmationDialogApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onResponse" parent="CD">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="BaseInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="BaseInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="ConfirmationDialogView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="ConfirmationDialogView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ConfirmationDialogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
